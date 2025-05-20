@@ -1,4 +1,0 @@
-/home/coral/coding/vtd_com/build/CMakeFiles/eth_udp.dir
-/home/coral/coding/vtd_com/build/CMakeFiles/pcap_receiver.dir
-/home/coral/coding/vtd_com/build/CMakeFiles/edit_cache.dir
-/home/coral/coding/vtd_com/build/CMakeFiles/rebuild_cache.dir
