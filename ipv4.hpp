@@ -3,6 +3,9 @@
 #include <cstring>
 #include <arpa/inet.h>
 
+
+// IPv4 header structure
+
 struct IPv4Header {
     uint8_t ver_ihl = 0x45;
     uint8_t dscp_ecn = 0;
@@ -30,6 +33,7 @@ struct IPv4Header {
         std::memcpy(buf + 12, &src_ip, 4);
         std::memcpy(buf + 16, &dst_ip, 4);
 
+        // Calculate checksum
         uint16_t sum = 0;
         for (int i = 0; i < 20; i += 2)
             sum += (buf[i] << 8) | buf[i+1];

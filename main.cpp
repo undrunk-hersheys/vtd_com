@@ -14,6 +14,9 @@ int main() {
         return 1;
     }
 
+    // Ethernet Maximum Transmission Unit (MTU)
+    // Max Pyaload that Layer2 can send
+    // 1500 bytes for Ethernet
     uint8_t packet[1500] = {};
     int offset = 0;
 
@@ -28,9 +31,10 @@ int main() {
         // 0x86DD for IPv6,
         // 0x0806 for ARP, etc.
         .ethertype = 0x0800
-        //
     };
-    eth.writeTo(packet + offset); offset += 14;
+    eth.writeTo(packet + offset); 
+    offset += 14;
+    // packet = [ Ethernet Header ][ IPv4 Header ][ UDP Header ][ Data ]
 
     // IPv4 header
     IPv4Header ip {
@@ -38,7 +42,8 @@ int main() {
         .src_ip = inet_addr("127.0.0.1"),
         .dst_ip = inet_addr("127.0.0.1")
     };
-    ip.writeTo(packet + offset); offset += 20;
+    ip.writeTo(packet + offset);
+    offset += 20;
 
     // UDP header
     UDPHeader udp {
@@ -46,11 +51,13 @@ int main() {
         .dst_port = htons(54321),
         .length = htons(8 + 5)
     };
-    udp.writeTo(packet + offset); offset += 8;
+    udp.writeTo(packet + offset);
+    offset += 8;
 
     // Payload
     const char* data = "Hello";
-    std::memcpy(packet + offset, data, 5); offset += 5;
+    std::memcpy(packet + offset, data, 5);
+    offset += 5;
 
     if (pcap_sendpacket(handle, packet, offset) != 0) {
         std::cerr << "send failed: " << pcap_geterr(handle) << std::endl;

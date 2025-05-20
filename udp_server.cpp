@@ -7,20 +7,20 @@ int main() {
     int sockfd;
     struct sockaddr_in servaddr, cliaddr;
 
-    // 1. 소켓 생성
+    // 1. create socket
     sockfd = socket(AF_INET, SOCK_DGRAM, 0);
     if (sockfd < 0) {
         perror("socket creation failed");
         return 1;
     }
 
-    // 2. 서버 주소 설정
+    // 2. set server address
     memset(&servaddr, 0, sizeof(servaddr));
     servaddr.sin_family = AF_INET;
     servaddr.sin_addr.s_addr = inet_addr("127.0.0.1");
     servaddr.sin_port = htons(54321); // 송신 측 포트와 동일하게 맞춤
 
-    // 3. 바인드
+    // 3. bind socket
     if (bind(sockfd, (const struct sockaddr*)&servaddr, sizeof(servaddr)) < 0) {
         perror("bind failed");
         close(sockfd);
@@ -29,7 +29,7 @@ int main() {
 
     std::cout << "Listening on 127.0.0.1:54321..." << std::endl;
 
-    // 4. 수신 루프
+    // 4. loop receive data
     while (true) {
         char buffer[1024] = {};
         socklen_t len = sizeof(cliaddr);
