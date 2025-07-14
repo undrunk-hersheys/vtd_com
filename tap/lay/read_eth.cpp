@@ -46,14 +46,16 @@ int main() {
             break;
         }
 
-        std::cout << "Read " << nread << " bytes from " << dev << std::endl;
+        // std::cout << "Read " << nread << " bytes from " << dev << std::endl;
 
-        if (nread < 42) continue; // Ethernet(14) + IP(20) + UDP(8)
+        if (nread < 42) 
+            continue; // Ethernet(14) + IP(20) + UDP(8)
 
         const uint8_t* eth = (uint8_t*)buffer;
         const uint8_t* ip = eth + 14;
 
-        if (ip[9] != 17) continue; // Check protocol field: 17 = UDP
+        if (ip[9] != 17) 
+            continue; // Check protocol field: 17 = UDP
 
         uint8_t ihl = ip[0] & 0x0F;
         uint8_t ip_header_len = ihl * 4;
@@ -65,8 +67,10 @@ int main() {
 
         const uint8_t* payload = udp + 8;
         int payload_len = udp_len - 8;
-        if (payload_len <= 0) continue;
+        if (payload_len <= 0) 
+            continue;
 
+        std::cout << "Read " << nread << " bytes from " << dev << std::endl;
         std::cout << "[UDP Packet] " << src_port << " -> " << dst_port << ", payload: ";
         for (int i = 0; i < payload_len; ++i) {
             std::cout << static_cast<char>(payload[i]);

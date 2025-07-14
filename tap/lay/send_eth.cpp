@@ -37,7 +37,7 @@ struct UDPHeader {
     uint16_t checksum = 0;
 } __attribute__((packed));
 
-// TAP 인터페이스 열기 함수
+// TAP interface open function
 int tun_alloc(const char* devname) {
     int fd = open("/dev/net/tun", O_RDWR);
     if (fd < 0) {
