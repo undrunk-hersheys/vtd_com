@@ -3,7 +3,7 @@
 
 #include <cstdint>
 #include <vector>
-#include <cstddef>
+#include <cstring>
 
 // IPv4 header structure (20 bytes, no options)
 struct IPv4Header {
