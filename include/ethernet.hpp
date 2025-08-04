@@ -10,7 +10,8 @@ constexpr uint16_t ETHERTYPE_IPV6 = 0x86DD;
 constexpr uint16_t ETHERTYPE_VLAN = 0x8100;
 
 // Ethernet frame (with optional VLAN tag)
-struct EthernetHeader {
+struct EthernetHeader 
+{
     uint8_t dstMAC[6];        // Destination MAC address
     uint8_t srcMAC[6];        // Source MAC address
     uint16_t etherType;       // EtherType or VLAN tag identifier
@@ -21,14 +22,17 @@ struct EthernetHeader {
     uint16_t innerEtherType = 0; // EtherType after VLAN
 
     // Serialize Ethernet header (with or without VLAN)
-    std::vector<uint8_t> toBytes() const;
+    std::vector<uint8_t> toBytes(
+        const std::vector<uint8_t>& payload
+    ) const;
 
     // Parse Ethernet header (detects VLAN if present)
     static EthernetHeader parse(const uint8_t* data, size_t size);
 };
 
 // Build a complete Ethernet frame (header + payload)
-std::vector<uint8_t> buildEthernetFrame(
+std::vector<uint8_t> buildEthernetFrame
+(
     const uint8_t dstMAC[6],
     const uint8_t srcMAC[6],
     uint16_t etherType,

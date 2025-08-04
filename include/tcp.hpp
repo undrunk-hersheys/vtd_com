@@ -5,7 +5,8 @@
 #include <vector>
 #include <cstring>
 
-struct TCPHeader {
+struct TCPHeader 
+{
     uint16_t srcPort;    // 16 bits
     uint16_t dstPort;    // 16 bits
     uint32_t seqNumber;  // 32 bits
@@ -28,7 +29,8 @@ struct TCPHeader {
 };
 
 // TCP pseudo-header checksum
-uint16_t computeTCPChecksum(
+uint16_t computeTCPChecksum
+(
     const TCPHeader& tcp,
     const uint8_t* payload,
     size_t payloadLen,
@@ -37,7 +39,8 @@ uint16_t computeTCPChecksum(
 );
 
 // Build full TCP segment
-std::vector<uint8_t> buildTCPSegment(
+std::vector<uint8_t> buildTCPSegment
+(
     uint16_t srcPort,
     uint16_t dstPort,
     uint32_t seq,

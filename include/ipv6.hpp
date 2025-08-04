@@ -3,10 +3,11 @@
 
 #include <cstdint>
 #include <vector>
-#include <cstddef>
+#include <cstring>
 
 // IPv6 header is fixed at 40 bytes
-struct IPv6Header {
+struct IPv6Header 
+{
     uint32_t versionTrafficFlow;  // Version (4 bits) + Traffic Class (8 bits) + Flow Label (20 bits)
     uint16_t payloadLength;       // Length of the payload (excluding header)
     uint8_t nextHeader;           // Next protocol: e.g., TCP=6, UDP=17, ICMPv6=58
@@ -22,7 +23,8 @@ struct IPv6Header {
 };
 
 // Build a complete IPv6 packet (header + payload)
-std::vector<uint8_t> buildIPv6Packet(
+std::vector<uint8_t> buildIPv6Packet
+(
     uint8_t nextHeader,
     const uint8_t srcIP[16],
     const uint8_t dstIP[16],

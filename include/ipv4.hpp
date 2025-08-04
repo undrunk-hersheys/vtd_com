@@ -6,7 +6,8 @@
 #include <cstring>
 
 // IPv4 header structure (20 bytes, no options)
-struct IPv4Header {
+struct IPv4Header 
+{
     uint8_t versionIHL;            // 4 bits version + 4 bits IHL header length (usually 0x45)
     uint8_t typeOfService;         // DSCP + ECN
     uint16_t totalLength;          // Total length: header + payload
@@ -19,7 +20,9 @@ struct IPv4Header {
     uint32_t dstIP;                // Destination IP address
 
     // Serialize header into a byte array (network byte order)
-    std::vector<uint8_t> toBytes() const;
+    std::vector<uint8_t> toBytes(
+        const std::vector<uint8_t>& payload
+    ) const;
 
     // Parse an IPv4 header from raw bytes
     static IPv4Header parse(const uint8_t* data, size_t size);
@@ -29,7 +32,8 @@ struct IPv4Header {
 uint16_t computeIPv4HeaderChecksum(const IPv4Header& header);
 
 // Construct a complete IPv4 packet (header + payload)
-std::vector<uint8_t> buildIPv4Packet(
+std::vector<uint8_t> buildIPv4Packet
+(
     uint8_t protocol,                     // e.g., TCP=6, UDP=17
     uint32_t srcIP,
     uint32_t dstIP,
