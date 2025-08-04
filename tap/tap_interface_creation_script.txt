@@ -1,8 +1,0 @@
-# 1. TAP 인터페이스 생성
-sudo ip tuntap add dev tap0 mode tap user $(whoami)
-
-# 2. 인터페이스 활성화
-sudo ip link set tap0 up
-
-# 3. 임의 주소 할당 (Layer 2만 쓸 거라 큰 의미는 없음)
-sudo ip addr add 10.0.0.1/24 dev tap0
