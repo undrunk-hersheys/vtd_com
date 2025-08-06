@@ -5,6 +5,9 @@
 #include <vector>
 #include <cstring>
 
+constexpr uint8_t UDP_PROTOCOL = 17; // UDP protocol number
+constexpr uint8_t TCP_PROTOCOL = 6;  // TCP protocol number
+
 // IPv4 header structure (20 bytes, no options)
 struct IPv4Header 
 {

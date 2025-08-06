@@ -5,8 +5,8 @@
 
 std::vector<uint8_t> EthernetHeader::toBytes(const std::vector<uint8_t>& payload) const
 {
-    size_t hdrLen = hasVLAN ? 18 : 14;
-    std::vector<uint8_t> frame(hdrLen + payload.size());
+    size_t header_length = hasVLAN ? 18 : 14;
+    std::vector<uint8_t> frame(header_length + payload.size());
 
     uint8_t* p = frame.data();
     std::memcpy(p, dstMAC, 6); p += 6;
@@ -36,14 +36,14 @@ std::vector<uint8_t> buildEthernetFrame(const uint8_t dst[6],
                                         uint16_t vlanTCI,
                                         uint16_t innerType)
 {
-    EthernetHeader h{};
-    std::memcpy(h.dstMAC, dst, 6);
-    std::memcpy(h.srcMAC, src, 6);
-    h.etherType = etherType;
-    h.hasVLAN = addVLAN;
-    h.vlanTCI = vlanTCI;
-    h.innerEtherType = innerType;
-    return h.toBytes(payload);
+    EthernetHeader ether_header{};
+    std::memcpy(ether_header.dstMAC, dst, 6);
+    std::memcpy(ether_header.srcMAC, src, 6);
+    ether_header.etherType = etherType; // ipv4 0x0800 / ipv6 0x86DD / arp 0x0806 ..
+    ether_header.hasVLAN = addVLAN;
+    ether_header.vlanTCI = vlanTCI;
+    ether_header.innerEtherType = innerType;
+    return ether_header.toBytes(payload);
 }
 
 

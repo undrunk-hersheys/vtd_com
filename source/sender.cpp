@@ -50,17 +50,14 @@ int main()
     const char* msg = "Hello from TAP!";
     std::vector<uint8_t> payload(msg, msg + std::strlen(msg));
 
-    // Layer4 UDP
-    std::vector<uint8_t> udpPkt =
-        buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
+    // Layer4 TCP/UDP
+    std::vector<uint8_t> udpPkt = buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
 
     // Layer3 IPv4
-    std::vector<uint8_t> ipPkt =
-        buildIPv4Packet(17 /* UDP */, SRC_IP, DST_IP, udpPkt, 64);
+    std::vector<uint8_t> ipPkt = buildIPv4Packet(UDP_PROTOCOL, SRC_IP, DST_IP, udpPkt, 64);
 
     // Layer4 Ethernet
-    std::vector<uint8_t> etherFrame =
-        buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ipPkt);
+    std::vector<uint8_t> etherFrame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ipPkt);
 
     // TAP
     int tapFd = openTap(TAP_NAME);
