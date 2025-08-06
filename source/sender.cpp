@@ -46,23 +46,23 @@ int main()
     const uint16_t SRC_PORT = 12345;
     const uint16_t DST_PORT = 54321;
 
-    /* --- application payload --- */
+    // application payload
     const char* msg = "Hello from TAP!";
     std::vector<uint8_t> payload(msg, msg + std::strlen(msg));
 
-    /* ---------- Layer-4 : UDP ---------- */
+    // Layer4 UDP
     std::vector<uint8_t> udpPkt =
         buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
 
-    /* ---------- Layer-3 : IPv4 ---------- */
+    // Layer3 IPv4
     std::vector<uint8_t> ipPkt =
         buildIPv4Packet(17 /* UDP */, SRC_IP, DST_IP, udpPkt, 64);
 
-    /* ---------- Layer-2 : Ethernet ---------- */
+    // Layer4 Ethernet
     std::vector<uint8_t> etherFrame =
         buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ipPkt);
 
-    /* ---------- send on TAP ---------- */
+    // TAP
     int tapFd = openTap(TAP_NAME);
     if (tapFd < 0) return 1;
 
