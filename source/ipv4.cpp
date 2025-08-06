@@ -52,3 +52,33 @@ std::vector<uint8_t> buildIPv4Packet(uint8_t protocol,
 
     return hdr.toBytes(payload);
 }
+
+bool parseIPv4Packet(const uint8_t* data,
+                     size_t len,
+                     IPv4Header& hdr,
+                     std::vector<uint8_t>& payload)
+{
+    if (len < 20) return false;
+
+    std::memcpy(&hdr, data, 20);        // copy first 20 bytes
+    uint8_t ihl = hdr.versionIHL & 0x0F;
+    if (ihl < 5) return false;          // invalid IHL
+    size_t hdrLen = ihl * 4;
+    if (len < hdrLen) return false;
+
+    uint16_t totalLen = ntohs(hdr.totalLength);
+    if (totalLen > len) return false;
+
+    /* --- verify header checksum --- */
+    IPv4Header temp;
+    std::memcpy(&temp, data, hdrLen);
+    temp.headerChecksum = 0;
+    if (onesComplement(reinterpret_cast<uint8_t*>(&temp), hdrLen) !=
+        hdr.headerChecksum)
+        return false;                   // checksum fail
+
+    /* --- payload extraction --- */
+    size_t payloadLen = totalLen - hdrLen;
+    payload.assign(data + hdrLen, data + hdrLen + payloadLen);
+    return true;
+}

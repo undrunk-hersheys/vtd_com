@@ -32,13 +32,16 @@ struct IPv4Header
 uint16_t computeIPv4HeaderChecksum(const IPv4Header& header);
 
 // Construct a complete IPv4 packet (header + payload)
-std::vector<uint8_t> buildIPv4Packet
-(
+std::vector<uint8_t> buildIPv4Packet(
     uint8_t protocol,                     // e.g., TCP=6, UDP=17
     uint32_t srcIP,
     uint32_t dstIP,
     const std::vector<uint8_t>& payload,
     uint8_t ttl = 64
 );
+
+bool parseIPv4Packet(const uint8_t* data, size_t len,
+                     IPv4Header& hdr,
+                     std::vector<uint8_t>& payload);
 
 #endif // IPV4_HPP

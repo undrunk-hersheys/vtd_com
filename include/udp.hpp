@@ -39,4 +39,13 @@ std::vector<uint8_t> buildUDPPacket
     const std::vector<uint8_t>& payload
 );
 
+bool parseUDPSegment
+(
+    const uint8_t* data, size_t len,
+    UDPHeader& hdr,
+    std::vector<uint8_t>& payload,
+    uint32_t srcIP,
+    uint32_t dstIP
+);
+
 #endif // UDP_HPP

@@ -45,3 +45,39 @@ std::vector<uint8_t> buildEthernetFrame(const uint8_t dst[6],
     h.innerEtherType = innerType;
     return h.toBytes(payload);
 }
+
+
+static uint16_t getU16(const uint8_t* p)
+{
+    uint16_t v; std::memcpy(&v, p, 2); return ntohs(v);
+}
+
+bool parseEthernetFrame(const uint8_t* data,
+                        size_t len,
+                        EthernetHeader& hdr,
+                        std::vector<uint8_t>& payload)
+{
+    if (len < 14) return false;               // minimal frame
+
+    std::memcpy(hdr.dstMAC, data, 6);
+    std::memcpy(hdr.srcMAC, data + 6, 6);
+    hdr.etherType = getU16(data + 12);
+
+    size_t offset = 14;
+
+    if (hdr.etherType == ETHERTYPE_VLAN) {
+        if (len < 18) return false;           // need TPID+TCI+innerType
+        hdr.hasVLAN        = true;
+        hdr.vlanTCI        = getU16(data + 14);
+        hdr.innerEtherType = getU16(data + 16);
+        offset = 18;
+    } else {
+        hdr.hasVLAN        = false;
+        hdr.vlanTCI        = 0;
+        hdr.innerEtherType = 0;
+    }
+
+    if (offset > len) return false;
+    payload.assign(data + offset, data + len);
+    return true;
+}

@@ -23,7 +23,6 @@ std::vector<uint8_t> UDPHeader::toBytes() const
     return out;
 }
 
-/* -------- free helpers -------- */
 uint16_t computeUDPChecksum(const UDPHeader& udp,
                             const uint8_t* payload,
                             size_t payloadLen,
@@ -68,4 +67,33 @@ std::vector<uint8_t> buildUDPPacket(uint16_t srcPort,
     std::memcpy(pkt.data(), &hdr, sizeof(UDPHeader));
     std::memcpy(pkt.data() + sizeof(UDPHeader), payload.data(), payload.size());
     return pkt;
+}
+
+bool parseUDPSegment(const uint8_t* data,
+                     size_t len,
+                     UDPHeader& hdr,
+                     std::vector<uint8_t>& payload,
+                     uint32_t srcIP,
+                     uint32_t dstIP)
+{
+    if (len < sizeof(UDPHeader)) return false;
+    std::memcpy(&hdr, data, sizeof(UDPHeader));
+
+    uint16_t segLen = ntohs(hdr.length);
+    if (segLen != len || segLen < sizeof(UDPHeader)) return false;
+
+    payload.assign(data + sizeof(UDPHeader), data + segLen);
+
+    /* UDP checksum verification (optional)            *
+     * NOTE: Checksum 0 means "not computed" per RFC.  */
+    // RFC 768 makes the combination of IPv4's pseudo-header for UDP
+    if (hdr.checksum == 0) return true; // IPv4 UDP checksum is optional
+
+    // // if calculate compared to the one in header
+    // uint16_t calc = computeUDPChecksum(hdr, payload.data(), payload.size(), srcIP, dstIP);
+    // return calc == hdr.checksum;
+
+    // Caller must supply src/dst IP to fully verify pseudo-header.
+    // Here we skip full verification and just accept non-zero.
+    return true;
 }

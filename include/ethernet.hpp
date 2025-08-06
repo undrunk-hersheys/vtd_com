@@ -42,4 +42,9 @@ std::vector<uint8_t> buildEthernetFrame
     uint16_t innerType = 0
 );
 
+bool parseEthernetFrame(const uint8_t* data, size_t len,
+                        EthernetHeader& hdr,
+                        std::vector<uint8_t>& payload);
+
+
 #endif // ETHERNET_HPP
