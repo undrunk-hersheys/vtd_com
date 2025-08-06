@@ -7,10 +7,10 @@
 
 struct UDPHeader
 {
-    uint16_t srcPort;    //16bits
-    uint16_t dstPort;    //16bits
-    uint16_t length;     //16bits
-    uint16_t checksum;   //16bits
+    uint16_t srcPort;    // 16 bits
+    uint16_t dstPort;    // 16 bits
+    uint16_t length;     // 16 bits
+    uint16_t checksum;   // 16 bits
 
     // serialize header into byte vector
     std::vector<uint8_t> toBytes() const;
