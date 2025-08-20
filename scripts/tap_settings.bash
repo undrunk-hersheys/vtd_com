@@ -24,9 +24,9 @@ echo "[*] Bringing TAP interfaces up..."
 sudo ip link set $TAP0 up
 sudo ip link set $TAP1 up
 
-# echo "[*] Assigning IP addresses to TAP interfaces..."
-# sudo ip addr add 10.0.0.1/24 dev $TAP0
-# sudo ip addr add 10.0.0.2/24 dev $TAP1
+echo "[*] Assigning IP addresses to TAP interfaces..."
+sudo ip addr add 10.0.0.1/24 dev $TAP0
+sudo ip addr add 10.0.0.2/24 dev $TAP1
 
 echo "[*] Creating and configuring bridge: $BRIDGE"
 sudo ip link add name $BRIDGE type bridge
@@ -46,3 +46,12 @@ ip addr show $TAP0
 ip addr show $TAP1
 ip addr show $BRIDGE
 
+sudo tc qdisc replace dev tap0 root pfifo limit 1000
+sudo tc qdisc replace dev tap1 root pfifo limit 1000
+#goes to default
+#tc qdisc del dev tapX root
+
+#shows which qdiscs are active
+tc qdisc show dev tap0
+tc qdisc show dev tap1
+tc qdisc show dev br0

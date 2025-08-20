@@ -8,10 +8,21 @@
 #include <linux/if_tun.h>
 #include <net/if.h>
 #include <arpa/inet.h>
+#include <chrono>
 
 #include "ethernet.hpp"  // Layer-2 builder
 #include "ipv4.hpp"      // Layer-3 builder
 #include "udp.hpp"       // Layer-4 builder
+
+uint64_t now_us() {
+    return std::chrono::duration_cast<std::chrono::microseconds>(
+               std::chrono::steady_clock::now().time_since_epoch()).count();
+}
+
+struct __attribute__((packed)) TsHeader {
+    uint64_t ts_us;
+    uint32_t seq;
+};
 
 int openTap(const char* devname) 
 {
@@ -45,37 +56,55 @@ int main()
 
     std::vector<uint8_t> buf(2048);
 
+    uint64_t prev_latency = 0;
+
     while (true) {
         ssize_t n = read(tapFd, buf.data(), buf.size());
         if (n <= 0) { perror("read"); break; }
 
-        /* ---------- L2 : Ethernet ---------- */
+        // Layer2 Ethernet
         EthernetHeader eth{};
         std::vector<uint8_t> l3;
-        if (!parseEthernetFrame(buf.data(), n, eth, l3)) continue;
-
-        uint16_t etype = eth.hasVLAN ? eth.innerEtherType : eth.etherType;
-        if (etype != ETHERTYPE_IPV4) continue;          // not IPv4
-
-        /* ---------- L3 : IPv4 -------------- */
-        IPv4Header ip{};
-        std::vector<uint8_t> l4;
-        if (!parseIPv4Packet(l3.data(), l3.size(), ip, l4)) continue;
-        if (ip.protocol != 17) continue;                // not UDP
-
-        /* ---------- L4 : UDP --------------- */
-        UDPHeader udp{};
-        std::vector<uint8_t> app;
-        if (!parseUDPSegment(l4.data(), l4.size(), udp, app,
-                             ip.srcIP, ip.dstIP))       // checksum verify
+        if (!parseEthernetFrame(buf.data(), n, eth, l3)) 
             continue;
 
-        /* ---------- Output ---------------- */
-        std::string text(app.begin(), app.end());
-        std::cout << "[UDP] "
-                  << ntohs(udp.srcPort) << " -> "
-                  << ntohs(udp.dstPort) << " | "
-                  << "payload: " << text << '\n';
+        uint16_t etype = eth.hasVLAN ? eth.innerEtherType : eth.etherType;
+        if (etype != ETHERTYPE_IPV4) 
+            continue;          // not IPv4
+
+        // Layer3 IPv4
+        IPv4Header ip{};
+        std::vector<uint8_t> l4;
+        if (!parseIPv4Packet(l3.data(), l3.size(), ip, l4)) 
+            continue;
+        if (ip.protocol != 17) 
+            continue;                // not UDP
+
+        // Layer4 TCP/UDP
+        UDPHeader udp{};
+        std::vector<uint8_t> app;
+        if (!parseUDPSegment(l4.data(), l4.size(), udp, app, ip.srcIP, ip.dstIP)) // checksum verify
+            continue;
+
+
+        if (app.size() < sizeof(TsHeader)) 
+            continue;
+        TsHeader h{};
+        std::memcpy(&h, app.data(), sizeof(TsHeader));
+        std::string text(app.begin() + sizeof(TsHeader), app.end());
+
+        uint64_t recv_us = now_us();
+        uint64_t latency = recv_us - h.ts_us;
+        uint64_t jitter = prev_latency ? std::llabs((long long)(latency - prev_latency)) : 0;
+        prev_latency = latency;
+
+        // Output
+        // std::string text(app.begin(), app.end());
+        std::cout << "[UDP] " << ntohs(udp.srcPort) << " -> " << ntohs(udp.dstPort)
+                  << " | seq: " << h.seq
+                  << " | delay: " << latency << " us"
+                  << " | jitter: " << jitter << " us"
+                  << " | payload: " << text << '\n';
     }
     close(tapFd);
     return 0;
