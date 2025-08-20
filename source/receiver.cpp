@@ -72,6 +72,12 @@ int main()
         if (etype != ETHERTYPE_IPV4) 
             continue;          // not IPv4
 
+        if (eth.hasVLAN) {
+            uint8_t pcp = getPCP(eth.vlanTCI);
+            uint16_t vid = getVID(eth.vlanTCI);
+            std::cout << "[VLAN] PCP=" << (int)pcp << " VID=" << vid << "\n";
+        }
+
         // Layer3 IPv4
         IPv4Header ip{};
         std::vector<uint8_t> l4;

@@ -51,6 +51,10 @@ int main()
 
     const uint8_t SRC_MAC[6] = {0xde,0xad,0xbe,0xef,0x00,0x01};
     const uint8_t DST_MAC[6] = {0xde,0xad,0xbe,0xef,0x00,0x02};
+    uint8_t  pcp = 3;
+    bool     dei = false;
+    uint16_t vid = 1;
+    uint16_t tci = encodeVLAN(pcp, dei, vid);
 
     const uint32_t SRC_IP = inet_addr("10.0.0.1");  // tap0
     const uint32_t DST_IP = inet_addr("10.0.0.2");  // tap1
@@ -82,15 +86,16 @@ int main()
 
 
     // Layer4 TCP/UDP
-    std::vector<uint8_t> udpPkt = buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
+    std::vector<uint8_t> udp_packet = buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
 
     // Layer3 IPv4
-    std::vector<uint8_t> ipPkt = buildIPv4Packet(UDP_PROTOCOL, SRC_IP, DST_IP, udpPkt, 64);
+    std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, SRC_IP, DST_IP, udp_packet, 64);
 
     // Layer2 Ethernet
-    std::vector<uint8_t> etherFrame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ipPkt);
+    // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
+    std::vector<uint8_t> ethernet_frame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
 
-    ssize_t n = write(tapFd, etherFrame.data(), static_cast<ssize_t>(etherFrame.size()));
+    ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
 
     if (n < 0) {
         perror("write");

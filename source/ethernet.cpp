@@ -3,6 +3,18 @@
 
 #include "ethernet.hpp"
 
+uint16_t encodeVLAN(uint8_t pcp, bool dei, uint16_t vid)
+{
+    if (pcp > 7) pcp = 7;
+    if (vid > 4094) vid = 4094;
+    return (uint16_t)(((pcp & 0x07) << 13) |
+                      ((dei & 0x01) << 12) |
+                      (vid & 0x0FFF));
+}
+uint8_t getPCP(uint16_t tci){ return (uint8_t)((tci >> 13) & 0x07); }
+bool getDEI(uint16_t tci){ return ((tci >> 12) & 0x01) != 0; }
+uint16_t getVID(uint16_t tci){ return tci & 0x0FFF; }
+
 std::vector<uint8_t> EthernetHeader::toBytes(const std::vector<uint8_t>& payload) const
 {
     size_t header_length = hasVLAN ? 18 : 14;
@@ -39,10 +51,24 @@ std::vector<uint8_t> buildEthernetFrame(const uint8_t dst[6],
     EthernetHeader ether_header{};
     std::memcpy(ether_header.dstMAC, dst, 6);
     std::memcpy(ether_header.srcMAC, src, 6);
-    ether_header.etherType = etherType; // ipv4 0x0800 / ipv6 0x86DD / arp 0x0806 ..
-    ether_header.hasVLAN = addVLAN;
-    ether_header.vlanTCI = vlanTCI;
-    ether_header.innerEtherType = innerType;
+
+    if (addVLAN) {
+        ether_header.hasVLAN        = true;
+        ether_header.vlanTCI        = vlanTCI;
+        ether_header.innerEtherType = (innerType != 0) ? innerType : etherType; 
+        ether_header.etherType      = ETHERTYPE_VLAN;
+    } else {
+        ether_header.hasVLAN        = false;
+        ether_header.vlanTCI        = 0;
+        ether_header.innerEtherType = 0;
+        ether_header.etherType      = etherType; // ipv4 0x0800 / ipv6 0x86DD / arp 0x0806 ..
+    }
+
+    // ether_header.etherType = etherType; 
+    // ether_header.hasVLAN = addVLAN;
+    // ether_header.vlanTCI = vlanTCI;
+    // ether_header.innerEtherType = innerType;
+
     return ether_header.toBytes(payload);
 }
 
