@@ -13,4 +13,7 @@ make
 
 // in another terminal run sender  
 ./sender --dst-mac de:ad:be:ef:00:02 --count 10 --interval-us 1000000  
+  
+  
+currently tap interface is using floading method, not the bridge.
 
