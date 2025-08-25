@@ -46,6 +46,8 @@ int openTap(const char* devname)
 
 int main()
 {
+    std::cout.setf(std::ios::unitbuf);
+
     const char* TAP_NAME = "tap1";
 
     int tapFd = openTap(TAP_NAME);

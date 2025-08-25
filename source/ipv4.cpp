@@ -77,6 +77,15 @@ bool parseIPv4Packet(const uint8_t* data,
         hdr.headerChecksum)
         return false;                   // checksum fail
 
+
+    // //* --- verify header checksum --- *//
+    // IPv4Header temp;
+    // std::memcpy(&temp, data, hdrLen);
+    // temp.headerChecksum = 0;
+    // uint16_t calc = onesComplement(reinterpret_cast<uint8_t*>(&temp), hdrLen);
+    // if (calc != ntohs(hdr.headerChecksum))
+    //     return false; // checksum fail
+
     /* --- payload extraction --- */
     size_t payloadLen = totalLen - hdrLen;
     payload.assign(data + hdrLen, data + hdrLen + payloadLen);

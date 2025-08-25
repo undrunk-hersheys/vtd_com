@@ -1,0 +1,10 @@
+[UDP] 12345 -> 54321 | seq: 1 | delay: 92 us | jitter: 0 us | payload: -
+[UDP] 12345 -> 54321 | seq: 2 | delay: 105 us | jitter: 13 us | payload: -
+[UDP] 12345 -> 54321 | seq: 3 | delay: 63 us | jitter: 42 us | payload: -
+[UDP] 12345 -> 54321 | seq: 4 | delay: 84 us | jitter: 21 us | payload: -
+[UDP] 12345 -> 54321 | seq: 5 | delay: 67 us | jitter: 17 us | payload: -
+[UDP] 12345 -> 54321 | seq: 6 | delay: 78 us | jitter: 11 us | payload: -
+[UDP] 12345 -> 54321 | seq: 7 | delay: 81 us | jitter: 3 us | payload: -
+[UDP] 12345 -> 54321 | seq: 8 | delay: 52 us | jitter: 29 us | payload: -
+[UDP] 12345 -> 54321 | seq: 9 | delay: 132 us | jitter: 80 us | payload: -
+[UDP] 12345 -> 54321 | seq: 10 | delay: 126 us | jitter: 6 us | payload: -

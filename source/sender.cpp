@@ -152,6 +152,16 @@ int main(int argc, char** argv)
     if (tapFd < 0) 
     { std::cerr << "Failed to open TAP device.\n"; return 1; }
 
+    // #ifdef TUNSETCARRIER
+    // {
+    //     int one = 1;
+    //     if (ioctl(tapFd, TUNSETCARRIER, &one) < 0) {
+    //     }
+    // }
+    // std::this_thread::sleep_for(std::chrono::milliseconds(50));
+    // #endif
+
+
     uint8_t srcMac[6], dstMac[6];
     if (!parseMac(srcMacStr, srcMac) || !parseMac(dstMacStr, dstMac)) 
     { std::cerr << "Invalid MAC format. Use aa:bb:cc:dd:ee:ff\n"; return 1; }
@@ -238,7 +248,8 @@ int main(int argc, char** argv)
         std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, srcIp, dstIp, udp_packet, 64);
 
         // ===== L2: Ethernet (+VLAN) =====
-        std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
+        //std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
+        std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
 
         ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
         
