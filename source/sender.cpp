@@ -84,8 +84,8 @@ int main(int argc, char** argv)
     std::string dstIpStr  = "10.0.0.2";
 
     std::string srcMacStr = "de:ad:be:ef:00:01";
-    // std::string dstMacStr = "de:ad:be:ef:00:02";
-    std::string dstMacStr = "";
+    std::string dstMacStr = "de:ad:be:ef:00:02";
+    // std::string dstMacStr = "";
 
     uint16_t srcPort = 12345;
     uint16_t dstPort = 54321;
@@ -96,8 +96,8 @@ int main(int argc, char** argv)
     uint16_t vid     = 1;
 
     size_t   payloadBytes = 64;
-    uint64_t count = 10;            // 0 = infinite
-    uint64_t intervalUs = 1000000;    // 1 MHz 1sec
+    uint64_t count = 10;  // 0 = infinite
+    uint64_t intervalUs = 1000000;  // 1 MHz 1sec
     uint32_t seqStart = 1;
 
     static option longopts[] = 
@@ -152,15 +152,6 @@ int main(int argc, char** argv)
     if (tapFd < 0) 
     { std::cerr << "Failed to open TAP device.\n"; return 1; }
 
-    // #ifdef TUNSETCARRIER
-    // {
-    //     int one = 1;
-    //     if (ioctl(tapFd, TUNSETCARRIER, &one) < 0) {
-    //     }
-    // }
-    // std::this_thread::sleep_for(std::chrono::milliseconds(50));
-    // #endif
-
 
     uint8_t srcMac[6], dstMac[6];
     if (!parseMac(srcMacStr, srcMac) || !parseMac(dstMacStr, dstMac)) 
@@ -173,66 +164,12 @@ int main(int argc, char** argv)
 
     uint16_t tci = encodeVLAN(pcp, dei, vid);
 
-    // const char* TAP_NAME = "tap0";
-
-    // const uint8_t SRC_MAC[6] = {0xde,0xad,0xbe,0xef,0x00,0x01};
-    // const uint8_t DST_MAC[6] = {0xde,0xad,0xbe,0xef,0x00,0x02};
-    // uint8_t  pcp = 3;
-    // bool     dei = false;
-    // uint16_t vid = 1;
-    // uint16_t tci = encodeVLAN(pcp, dei, vid);
-
-    // const uint32_t SRC_IP = inet_addr("10.0.0.1");  // tap0
-    // const uint32_t DST_IP = inet_addr("10.0.0.2");  // tap1
-
-    // const uint16_t SRC_PORT = 12345;
-    // const uint16_t DST_PORT = 54321;
-
     // application payload
     const char* msg = "-";
     size_t msglen = std::strlen(msg);
     // std::vector<uint8_t> payload(msg, msg + msglen);
 
     uint32_t seq = seqStart;
-
-    // static uint32_t seq = 1;
-    // const int SEND_COUNT = 10;
-    // const int INTERVAL_MS = 1000; // 1000ms = 1s
-
-    // // TAP
-    // int tapFd = openTap(TAP_NAME);
-    // if (tapFd < 0) return 1;
-
-    // for (int i = 0; i < SEND_COUNT; ++i) 
-    // {
-
-    // // chrono
-    // TsHeader header{ now_us(), seq++ };
-    // std::vector<uint8_t> payload(sizeof(header) + msglen);
-    // std::memcpy(payload.data(), &header, sizeof(header));
-    // std::memcpy(payload.data() + sizeof(header), msg, msglen);
-
-
-    // // Layer4 TCP/UDP
-    // std::vector<uint8_t> udp_packet = buildUDPPacket(SRC_PORT, DST_PORT, SRC_IP, DST_IP, payload);
-
-    // // Layer3 IPv4
-    // std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, SRC_IP, DST_IP, udp_packet, 64);
-
-    // // Layer2 Ethernet
-    // // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
-    // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(DST_MAC, SRC_MAC, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
-
-    // ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
-
-    // if (n < 0) {
-    //     perror("write");
-    // } else {
-    //     std::cout << "Sent " << n << " bytes on " << TAP_NAME << '\n';
-    // }
-
-    //     std::this_thread::sleep_for(std::chrono::milliseconds(INTERVAL_MS));
-    // }
 
 
     for (uint64_t sent = 0; (count == 0) || (sent < count); ++sent) {
@@ -248,8 +185,8 @@ int main(int argc, char** argv)
         std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, srcIp, dstIp, udp_packet, 64);
 
         // ===== L2: Ethernet (+VLAN) =====
-        //std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
-        std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
+        std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
+        // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
 
         ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
         
