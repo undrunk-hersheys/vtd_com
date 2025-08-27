@@ -17,8 +17,12 @@ sudo ip link del "$TAP1" 2>/dev/null || true
 sudo ip link del "$BR"   2>/dev/null || true
 
 echo "[*] create TAPs"
-sudo ip tuntap add dev "$TAP0" mode tap user "$USER_NAME"
-sudo ip tuntap add dev "$TAP1" mode tap user "$USER_NAME"
+# sudo ip tuntap add dev "$TAP0" mode tap user "$USER_NAME"
+# sudo ip tuntap add dev "$TAP1" mode tap user "$USER_NAME"
+# echo "[*] add multi queue"
+sudo ip tuntap add dev "$TAP0" mode tap user "$USER_NAME" multi_queue
+sudo ip tuntap add dev "$TAP1" mode tap user "$USER_NAME" multi_queue
+
 
 echo "[*] set fixed MACs"
 sudo ip link set dev "$TAP0" address "$MAC0"

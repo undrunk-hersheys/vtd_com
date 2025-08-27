@@ -18,7 +18,7 @@ sudo tc qdisc replace dev "${IF_EGRESS}" root handle 1: tbf rate "${RATE}" burst
 echo "[*] Adding netem under TBF (delay ${DELAY} ± ${JITTER})"
 sudo tc qdisc replace dev "${IF_EGRESS}" parent 1:1 handle 10: netem delay "${DELAY}" "${JITTER}"
 
-# Optional: sender 쪽만 pfifo로 통일 (tap1 root는 건드리지 않음)
+// set sender pfifo
 if ip link show tap0 &>/dev/null; then
   sudo tc qdisc replace dev tap0 root pfifo limit 1000 || true
 fi

@@ -7,7 +7,7 @@ echo "[*] Removing bottleneck qdiscs from ${IF_EGRESS}"
 sudo tc qdisc del dev "${IF_EGRESS}" root 2>/dev/null || true
 sudo tc qdisc del dev "${IF_EGRESS}" ingress 2>/dev/null || true
 
-# Optional: sender 쪽은 pfifo로 정리
+// set sender pfifo
 if ip link show tap0 &>/dev/null; then
   sudo tc qdisc replace dev tap0 root pfifo limit 1000 || true
 fi

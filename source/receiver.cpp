@@ -34,7 +34,9 @@ int openTap(const char* devname)
 
     ifreq ifr{};
     std::strncpy(ifr.ifr_name, devname, IFNAMSIZ);
-    ifr.ifr_flags = IFF_TAP | IFF_NO_PI;
+    // ifr.ifr_flags = IFF_TAP | IFF_NO_PI;
+    ifr.ifr_flags = IFF_TAP | IFF_NO_PI | IFF_MULTI_QUEUE;
+
 
     if (ioctl(fd, TUNSETIFF, &ifr) < 0) {
         perror("ioctl(TUNSETIFF)");
