@@ -1,0 +1,4000 @@
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 1 | delay: 157 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 2 | delay: 102 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 3 | delay: 98 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 4 | delay: 57 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 5 | delay: 141 us | jitter: 84 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 6 | delay: 26 us | jitter: 115 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 7 | delay: 89 us | jitter: 63 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 8 | delay: 97 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 9 | delay: 74 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 10 | delay: 52 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 11 | delay: 50 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 12 | delay: 96 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 13 | delay: 128 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 14 | delay: 83 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 15 | delay: 71 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 16 | delay: 209 us | jitter: 138 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 17 | delay: 76 us | jitter: 133 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 18 | delay: 100 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 19 | delay: 131 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 20 | delay: 88 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 21 | delay: 59 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 22 | delay: 68 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 23 | delay: 55 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 24 | delay: 99 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 25 | delay: 56 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 26 | delay: 60 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 27 | delay: 56 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 28 | delay: 55 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 29 | delay: 59 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 30 | delay: 52 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 31 | delay: 195 us | jitter: 143 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 32 | delay: 74 us | jitter: 121 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 33 | delay: 115 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 34 | delay: 44 us | jitter: 71 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 35 | delay: 60 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 36 | delay: 173 us | jitter: 113 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 37 | delay: 68 us | jitter: 105 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 38 | delay: 80 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 39 | delay: 107 us | jitter: 27 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 40 | delay: 116 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 41 | delay: 258 us | jitter: 142 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 42 | delay: 77 us | jitter: 181 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 43 | delay: 110 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 44 | delay: 58 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 45 | delay: 127 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 46 | delay: 176 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 47 | delay: 128 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 48 | delay: 147 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 49 | delay: 100 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 50 | delay: 123 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 51 | delay: 369 us | jitter: 246 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 52 | delay: 150 us | jitter: 219 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 53 | delay: 178 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 54 | delay: 135 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 55 | delay: 132 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 56 | delay: 168 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 57 | delay: 64 us | jitter: 104 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 58 | delay: 126 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 59 | delay: 318 us | jitter: 192 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 60 | delay: 59 us | jitter: 259 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 61 | delay: 112 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 62 | delay: 110 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 63 | delay: 69 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 64 | delay: 165 us | jitter: 96 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 65 | delay: 210 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 66 | delay: 213 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 67 | delay: 133 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 68 | delay: 94 us | jitter: 39 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 69 | delay: 107 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 70 | delay: 152 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 71 | delay: 152 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 72 | delay: 103 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 73 | delay: 91 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 74 | delay: 152 us | jitter: 61 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 75 | delay: 151 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 76 | delay: 86 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 77 | delay: 99 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 78 | delay: 52 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 79 | delay: 174 us | jitter: 122 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 80 | delay: 247 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 81 | delay: 237 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 82 | delay: 244 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 83 | delay: 123 us | jitter: 121 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 84 | delay: 216 us | jitter: 93 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 85 | delay: 116 us | jitter: 100 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 86 | delay: 130 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 87 | delay: 179 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 88 | delay: 120 us | jitter: 59 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 89 | delay: 89 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 90 | delay: 63 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 91 | delay: 131 us | jitter: 68 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 92 | delay: 75 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 93 | delay: 58 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 94 | delay: 106 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 95 | delay: 170 us | jitter: 64 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 96 | delay: 124 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 97 | delay: 101 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 98 | delay: 123 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 99 | delay: 161 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 100 | delay: 92 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 101 | delay: 114 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 102 | delay: 195 us | jitter: 81 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 103 | delay: 135 us | jitter: 60 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 104 | delay: 100 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 105 | delay: 74 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 106 | delay: 110 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 107 | delay: 133 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 108 | delay: 51 us | jitter: 82 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 109 | delay: 80 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 110 | delay: 35 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 111 | delay: 151 us | jitter: 116 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 112 | delay: 147 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 113 | delay: 109 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 114 | delay: 57 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 115 | delay: 59 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 116 | delay: 104 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 117 | delay: 63 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 118 | delay: 140 us | jitter: 77 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 119 | delay: 308 us | jitter: 168 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 120 | delay: 69 us | jitter: 239 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 121 | delay: 148 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 122 | delay: 150 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 123 | delay: 725 us | jitter: 575 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 124 | delay: 142 us | jitter: 583 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 125 | delay: 89 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 126 | delay: 766 us | jitter: 677 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 127 | delay: 135 us | jitter: 631 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 128 | delay: 90 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 129 | delay: 75 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 130 | delay: 87 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 131 | delay: 31 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 132 | delay: 71 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 133 | delay: 144 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 134 | delay: 115 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 135 | delay: 164 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 136 | delay: 142 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 137 | delay: 100 us | jitter: 42 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 138 | delay: 129 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 139 | delay: 175 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 140 | delay: 3607 us | jitter: 3432 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 141 | delay: 126 us | jitter: 3481 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 142 | delay: 167 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 143 | delay: 104 us | jitter: 63 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 144 | delay: 69 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 145 | delay: 139 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 146 | delay: 125 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 147 | delay: 249 us | jitter: 124 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 148 | delay: 209 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 149 | delay: 133 us | jitter: 76 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 150 | delay: 126 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 151 | delay: 183 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 152 | delay: 44 us | jitter: 139 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 153 | delay: 74 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 154 | delay: 105 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 155 | delay: 94 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 156 | delay: 1515 us | jitter: 1421 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 157 | delay: 188 us | jitter: 1327 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 158 | delay: 102 us | jitter: 86 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 159 | delay: 115 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 160 | delay: 119 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 161 | delay: 84 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 162 | delay: 349 us | jitter: 265 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 163 | delay: 167 us | jitter: 182 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 164 | delay: 107 us | jitter: 60 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 165 | delay: 72 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 166 | delay: 53 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 167 | delay: 105 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 168 | delay: 109 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 169 | delay: 95 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 170 | delay: 118 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 171 | delay: 104 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 172 | delay: 51 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 173 | delay: 132 us | jitter: 81 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 174 | delay: 146 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 175 | delay: 121 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 176 | delay: 148 us | jitter: 27 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 177 | delay: 124 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 178 | delay: 162 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 179 | delay: 118 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 180 | delay: 165 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 181 | delay: 335 us | jitter: 170 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 182 | delay: 415 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 183 | delay: 272 us | jitter: 143 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 184 | delay: 694 us | jitter: 422 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 185 | delay: 168 us | jitter: 526 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 186 | delay: 212 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 187 | delay: 83 us | jitter: 129 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 188 | delay: 1293 us | jitter: 1210 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 189 | delay: 137 us | jitter: 1156 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 190 | delay: 142 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 191 | delay: 116 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 192 | delay: 61 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 193 | delay: 54 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 194 | delay: 116 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 195 | delay: 47 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 196 | delay: 94 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 197 | delay: 218 us | jitter: 124 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 198 | delay: 92 us | jitter: 126 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 199 | delay: 144 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 200 | delay: 112 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 201 | delay: 74 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 202 | delay: 86 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 203 | delay: 51 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 204 | delay: 52 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 205 | delay: 111 us | jitter: 59 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 206 | delay: 142 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 207 | delay: 130 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 208 | delay: 111 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 209 | delay: 135 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 210 | delay: 59 us | jitter: 76 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 211 | delay: 623 us | jitter: 564 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 212 | delay: 64 us | jitter: 559 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 213 | delay: 35 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 214 | delay: 98 us | jitter: 63 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 215 | delay: 657 us | jitter: 559 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 216 | delay: 110 us | jitter: 547 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 217 | delay: 59 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 218 | delay: 99 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 219 | delay: 55 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 220 | delay: 69 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 221 | delay: 87 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 222 | delay: 47 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 223 | delay: 65 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 224 | delay: 49 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 225 | delay: 124 us | jitter: 75 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 226 | delay: 156 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 227 | delay: 125 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 228 | delay: 51 us | jitter: 74 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 229 | delay: 43 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 230 | delay: 102 us | jitter: 59 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 231 | delay: 96 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 232 | delay: 111 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 233 | delay: 63 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 234 | delay: 129 us | jitter: 66 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 235 | delay: 53 us | jitter: 76 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 236 | delay: 177 us | jitter: 124 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 237 | delay: 83 us | jitter: 94 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 238 | delay: 162 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 239 | delay: 242 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 240 | delay: 156 us | jitter: 86 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 241 | delay: 99 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 242 | delay: 54 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 243 | delay: 63 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 244 | delay: 179 us | jitter: 116 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 245 | delay: 136 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 246 | delay: 95 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 247 | delay: 33 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 248 | delay: 74 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 249 | delay: 161 us | jitter: 87 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 250 | delay: 87 us | jitter: 74 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 251 | delay: 36 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 252 | delay: 90 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 253 | delay: 64 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 254 | delay: 177 us | jitter: 113 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 255 | delay: 66 us | jitter: 111 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 256 | delay: 75 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 257 | delay: 46 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 258 | delay: 172 us | jitter: 126 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 259 | delay: 480 us | jitter: 308 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 260 | delay: 366 us | jitter: 114 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 261 | delay: 144 us | jitter: 222 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 262 | delay: 185 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 263 | delay: 173 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 264 | delay: 146 us | jitter: 27 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 265 | delay: 132 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 266 | delay: 156 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 267 | delay: 375 us | jitter: 219 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 268 | delay: 62 us | jitter: 313 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 269 | delay: 142 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 270 | delay: 105 us | jitter: 37 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 271 | delay: 58 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 272 | delay: 194 us | jitter: 136 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 273 | delay: 179 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 274 | delay: 146 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 1 | delay: 105 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 275 | delay: 1945 us | jitter: 1840 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 276 | delay: 728 us | jitter: 1217 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 2 | delay: 77 us | jitter: 651 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 277 | delay: 2741 us | jitter: 2664 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 278 | delay: 404 us | jitter: 2337 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 3 | delay: 138 us | jitter: 266 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 4 | delay: 169 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 5 | delay: 124 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 6 | delay: 264 us | jitter: 140 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 7 | delay: 238 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 279 | delay: 63 us | jitter: 175 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 8 | delay: 328 us | jitter: 265 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 280 | delay: 69 us | jitter: 259 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 9 | delay: 478 us | jitter: 409 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 281 | delay: 38 us | jitter: 440 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 10 | delay: 163 us | jitter: 125 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 282 | delay: 50 us | jitter: 113 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 11 | delay: 1482 us | jitter: 1432 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 283 | delay: 117 us | jitter: 1365 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 12 | delay: 34 us | jitter: 83 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 284 | delay: 266 us | jitter: 232 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 13 | delay: 105 us | jitter: 161 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 14 | delay: 209 us | jitter: 104 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 285 | delay: 91 us | jitter: 118 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 15 | delay: 340 us | jitter: 249 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 286 | delay: 109 us | jitter: 231 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 16 | delay: 73 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 287 | delay: 70 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 17 | delay: 82 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 288 | delay: 124 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 18 | delay: 141 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 289 | delay: 127 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 19 | delay: 140 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 290 | delay: 356 us | jitter: 216 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 20 | delay: 211 us | jitter: 145 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 291 | delay: 287 us | jitter: 76 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 21 | delay: 193 us | jitter: 94 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 292 | delay: 177 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 22 | delay: 148 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 293 | delay: 461 us | jitter: 313 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 23 | delay: 145 us | jitter: 316 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 294 | delay: 227 us | jitter: 82 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 24 | delay: 157 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 295 | delay: 228 us | jitter: 71 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 25 | delay: 149 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 296 | delay: 179 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 26 | delay: 150 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 297 | delay: 99 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 27 | delay: 135 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 298 | delay: 82 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 28 | delay: 90 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 299 | delay: 78 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 29 | delay: 94 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 300 | delay: 84 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 30 | delay: 120 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 301 | delay: 71 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 31 | delay: 101 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 302 | delay: 118 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 32 | delay: 84 us | jitter: 34 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 303 | delay: 78 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 33 | delay: 179 us | jitter: 101 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 304 | delay: 182 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 34 | delay: 69 us | jitter: 113 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 305 | delay: 57 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 35 | delay: 33 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 306 | delay: 50 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 36 | delay: 33 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 307 | delay: 73 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 37 | delay: 64 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 308 | delay: 281 us | jitter: 217 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 38 | delay: 201 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 309 | delay: 126 us | jitter: 75 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 39 | delay: 102 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 40 | delay: 137 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 310 | delay: 108 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 41 | delay: 100 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 311 | delay: 85 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 312 | delay: 391 us | jitter: 306 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 42 | delay: 290 us | jitter: 101 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 43 | delay: 113 us | jitter: 177 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 313 | delay: 49 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 44 | delay: 158 us | jitter: 109 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 314 | delay: 125 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 45 | delay: 99 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 315 | delay: 87 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 46 | delay: 83 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 316 | delay: 100 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 47 | delay: 133 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 317 | delay: 77 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 48 | delay: 118 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 318 | delay: 96 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 319 | delay: 170 us | jitter: 74 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 49 | delay: 146 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 320 | delay: 167 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 50 | delay: 120 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 51 | delay: 167 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 321 | delay: 126 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 322 | delay: 191 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 52 | delay: 114 us | jitter: 77 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 53 | delay: 166 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 323 | delay: 132 us | jitter: 34 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 324 | delay: 318 us | jitter: 186 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 54 | delay: 163 us | jitter: 155 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 325 | delay: 120 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 55 | delay: 79 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 326 | delay: 87 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 56 | delay: 78 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 327 | delay: 84 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 57 | delay: 122 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 328 | delay: 57 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 58 | delay: 96 us | jitter: 39 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 329 | delay: 185 us | jitter: 89 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 59 | delay: 114 us | jitter: 71 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 330 | delay: 1256 us | jitter: 1142 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 60 | delay: 82 us | jitter: 1174 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 331 | delay: 71 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 61 | delay: 193 us | jitter: 122 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 332 | delay: 122 us | jitter: 71 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 62 | delay: 124 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 333 | delay: 189 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 334 | delay: 307 us | jitter: 118 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 63 | delay: 192 us | jitter: 115 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 335 | delay: 112 us | jitter: 80 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 64 | delay: 98 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 65 | delay: 139 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 336 | delay: 124 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 337 | delay: 99 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 66 | delay: 96 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 67 | delay: 139 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 338 | delay: 154 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 339 | delay: 122 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 68 | delay: 120 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 69 | delay: 138 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 340 | delay: 133 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 341 | delay: 90 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 70 | delay: 101 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 71 | delay: 172 us | jitter: 71 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 342 | delay: 162 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 343 | delay: 126 us | jitter: 36 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 72 | delay: 116 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 73 | delay: 192 us | jitter: 76 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 344 | delay: 184 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 345 | delay: 141 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 74 | delay: 124 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 75 | delay: 421 us | jitter: 297 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 346 | delay: 342 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 347 | delay: 258 us | jitter: 84 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 76 | delay: 221 us | jitter: 37 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 348 | delay: 407 us | jitter: 186 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 77 | delay: 194 us | jitter: 213 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 349 | delay: 356 us | jitter: 162 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 78 | delay: 408 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 350 | delay: 337 us | jitter: 71 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 79 | delay: 272 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 351 | delay: 1607 us | jitter: 1335 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 352 | delay: 436 us | jitter: 1171 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 80 | delay: 349 us | jitter: 87 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 353 | delay: 247 us | jitter: 102 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 81 | delay: 231 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 354 | delay: 233 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 82 | delay: 184 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 83 | delay: 246 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 355 | delay: 167 us | jitter: 79 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 84 | delay: 121 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 356 | delay: 79 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 85 | delay: 89 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 357 | delay: 93 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 86 | delay: 165 us | jitter: 72 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 358 | delay: 116 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 87 | delay: 269 us | jitter: 153 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 359 | delay: 111 us | jitter: 158 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 88 | delay: 49 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 360 | delay: 310 us | jitter: 261 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 89 | delay: 183 us | jitter: 127 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 361 | delay: 142 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 90 | delay: 120 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 362 | delay: 230 us | jitter: 110 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 91 | delay: 128 us | jitter: 102 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 363 | delay: 147 us | jitter: 19 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 92 | delay: 89 us | jitter: 58 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 364 | delay: 89 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 93 | delay: 100 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 365 | delay: 85 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 94 | delay: 115 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 366 | delay: 154 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 95 | delay: 117 us | jitter: 37 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 367 | delay: 107 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 96 | delay: 174 us | jitter: 67 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 368 | delay: 79 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 97 | delay: 82 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 369 | delay: 62 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 98 | delay: 62 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 370 | delay: 61 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 99 | delay: 66 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 371 | delay: 122 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 100 | delay: 60 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 101 | delay: 125 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 372 | delay: 70 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 373 | delay: 292 us | jitter: 222 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 102 | delay: 174 us | jitter: 118 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 374 | delay: 183 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 103 | delay: 115 us | jitter: 68 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 104 | delay: 128 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 375 | delay: 70 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 105 | delay: 95 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 376 | delay: 90 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 106 | delay: 94 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 377 | delay: 84 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 107 | delay: 88 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 378 | delay: 88 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 379 | delay: 182 us | jitter: 94 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 108 | delay: 105 us | jitter: 77 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 380 | delay: 129 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 109 | delay: 94 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 381 | delay: 148 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 110 | delay: 113 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 111 | delay: 206 us | jitter: 93 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 382 | delay: 108 us | jitter: 98 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 383 | delay: 177 us | jitter: 69 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 112 | delay: 128 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 113 | delay: 146 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 384 | delay: 113 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 114 | delay: 108 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 385 | delay: 103 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 115 | delay: 173 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 386 | delay: 103 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 116 | delay: 126 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 387 | delay: 124 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 117 | delay: 117 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 388 | delay: 94 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 118 | delay: 99 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 389 | delay: 59 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 119 | delay: 112 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 390 | delay: 75 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 120 | delay: 213 us | jitter: 138 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 391 | delay: 37 us | jitter: 176 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 121 | delay: 33 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 392 | delay: 144 us | jitter: 111 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 122 | delay: 78 us | jitter: 66 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 393 | delay: 71 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 123 | delay: 79 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 394 | delay: 77 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 124 | delay: 94 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 395 | delay: 82 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 125 | delay: 87 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 396 | delay: 80 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 126 | delay: 87 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 397 | delay: 84 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 127 | delay: 82 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 398 | delay: 88 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 128 | delay: 861 us | jitter: 773 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 129 | delay: 168 us | jitter: 693 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 399 | delay: 115 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 130 | delay: 194 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 400 | delay: 177 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 401 | delay: 121 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 131 | delay: 57 us | jitter: 64 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 402 | delay: 72 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 132 | delay: 78 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 403 | delay: 99 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 133 | delay: 106 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 404 | delay: 112 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 134 | delay: 77 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 405 | delay: 94 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 135 | delay: 79 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 406 | delay: 97 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 136 | delay: 80 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 407 | delay: 96 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 137 | delay: 78 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 408 | delay: 65 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 138 | delay: 84 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 409 | delay: 190 us | jitter: 106 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 139 | delay: 30 us | jitter: 160 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 410 | delay: 32 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 140 | delay: 60 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 411 | delay: 33 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 141 | delay: 48 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 412 | delay: 47 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 142 | delay: 178 us | jitter: 131 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 413 | delay: 52 us | jitter: 126 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 143 | delay: 269 us | jitter: 217 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 414 | delay: 174 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 144 | delay: 207 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 415 | delay: 141 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 145 | delay: 243 us | jitter: 102 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 416 | delay: 163 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 417 | delay: 72 us | jitter: 91 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 146 | delay: 40 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 418 | delay: 180 us | jitter: 140 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 147 | delay: 103 us | jitter: 77 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 148 | delay: 148 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 419 | delay: 73 us | jitter: 75 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 420 | delay: 151 us | jitter: 78 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 149 | delay: 118 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 421 | delay: 91 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 150 | delay: 120 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 422 | delay: 52 us | jitter: 68 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 151 | delay: 107 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 423 | delay: 148 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 152 | delay: 82 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 153 | delay: 139 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 424 | delay: 65 us | jitter: 74 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 154 | delay: 77 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 425 | delay: 88 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 155 | delay: 80 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 426 | delay: 88 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 156 | delay: 94 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 427 | delay: 67 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 157 | delay: 69 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 428 | delay: 159 us | jitter: 90 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 158 | delay: 317 us | jitter: 158 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 429 | delay: 95 us | jitter: 222 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 159 | delay: 62 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 430 | delay: 73 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 160 | delay: 55 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 431 | delay: 61 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 161 | delay: 54 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 432 | delay: 232 us | jitter: 178 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 162 | delay: 169 us | jitter: 63 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 433 | delay: 217 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 163 | delay: 105 us | jitter: 112 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 434 | delay: 111 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 164 | delay: 88 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 435 | delay: 111 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 165 | delay: 96 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 436 | delay: 43 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 166 | delay: 184 us | jitter: 141 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 437 | delay: 105 us | jitter: 79 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 167 | delay: 179 us | jitter: 74 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 438 | delay: 106 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 439 | delay: 107 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 168 | delay: 55 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 440 | delay: 164 us | jitter: 109 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 169 | delay: 75 us | jitter: 89 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 441 | delay: 145 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 170 | delay: 114 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 442 | delay: 104 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 171 | delay: 89 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 443 | delay: 83 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 172 | delay: 115 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 173 | delay: 171 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 444 | delay: 116 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 174 | delay: 226 us | jitter: 110 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 445 | delay: 229 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 175 | delay: 136 us | jitter: 93 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 446 | delay: 82 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 447 | delay: 127 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 176 | delay: 96 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 177 | delay: 146 us | jitter: 50 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 448 | delay: 131 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 449 | delay: 183 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 178 | delay: 136 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 179 | delay: 3803 us | jitter: 3667 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 450 | delay: 3450 us | jitter: 353 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 180 | delay: 590 us | jitter: 2860 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 451 | delay: 366 us | jitter: 224 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 181 | delay: 381 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 452 | delay: 377 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 453 | delay: 232 us | jitter: 145 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 182 | delay: 106 us | jitter: 126 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 454 | delay: 124 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 183 | delay: 99 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 455 | delay: 397 us | jitter: 298 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 184 | delay: 202 us | jitter: 195 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 456 | delay: 404 us | jitter: 202 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 185 | delay: 258 us | jitter: 146 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 457 | delay: 224 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 186 | delay: 113 us | jitter: 111 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 458 | delay: 187 us | jitter: 74 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 187 | delay: 74 us | jitter: 113 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 459 | delay: 177 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 188 | delay: 121 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 460 | delay: 98 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 189 | delay: 64 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 190 | delay: 219 us | jitter: 155 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 461 | delay: 72 us | jitter: 147 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 191 | delay: 226 us | jitter: 154 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 462 | delay: 134 us | jitter: 92 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 192 | delay: 82 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 463 | delay: 57 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 193 | delay: 130 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 464 | delay: 109 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 194 | delay: 123 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 465 | delay: 59 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 195 | delay: 55 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 466 | delay: 45 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 196 | delay: 90 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 467 | delay: 66 us | jitter: 24 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 468 | delay: 112 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 197 | delay: 30 us | jitter: 82 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 469 | delay: 34 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 198 | delay: 299 us | jitter: 265 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 470 | delay: 232 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 199 | delay: 76 us | jitter: 156 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 471 | delay: 53 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 200 | delay: 200 us | jitter: 147 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 472 | delay: 113 us | jitter: 87 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 201 | delay: 160 us | jitter: 47 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 473 | delay: 109 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 202 | delay: 132 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 474 | delay: 71 us | jitter: 61 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 203 | delay: 136 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 475 | delay: 64 us | jitter: 72 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 476 | delay: 80 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 204 | delay: 29 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 477 | delay: 82 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 205 | delay: 34 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 478 | delay: 41 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 206 | delay: 37 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 479 | delay: 38 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 207 | delay: 39 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 480 | delay: 36 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 208 | delay: 34 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 481 | delay: 34 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 209 | delay: 104 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 482 | delay: 49 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 210 | delay: 63 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 483 | delay: 45 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 484 | delay: 112 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 211 | delay: 48 us | jitter: 64 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 485 | delay: 103 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 212 | delay: 49 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 486 | delay: 97 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 213 | delay: 49 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 214 | delay: 82 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 487 | delay: 30 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 215 | delay: 35 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 488 | delay: 34 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 216 | delay: 334 us | jitter: 300 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 489 | delay: 71 us | jitter: 263 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 217 | delay: 99 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 490 | delay: 70 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 491 | delay: 96 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 218 | delay: 44 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 219 | delay: 113 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 492 | delay: 43 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 493 | delay: 242 us | jitter: 199 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 220 | delay: 1396 us | jitter: 1154 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 494 | delay: 185 us | jitter: 1211 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 221 | delay: 109 us | jitter: 76 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 222 | delay: 506 us | jitter: 397 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 495 | delay: 55 us | jitter: 451 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 223 | delay: 76 us | jitter: 21 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 496 | delay: 186 us | jitter: 110 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 224 | delay: 86 us | jitter: 100 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 497 | delay: 128 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 225 | delay: 86 us | jitter: 42 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 498 | delay: 218 us | jitter: 132 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 226 | delay: 142 us | jitter: 76 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 227 | delay: 92 us | jitter: 50 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 499 | delay: 65 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 228 | delay: 143 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 500 | delay: 65 us | jitter: 78 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 229 | delay: 222 us | jitter: 157 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 501 | delay: 116 us | jitter: 106 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 230 | delay: 157 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 502 | delay: 91 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 231 | delay: 77 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 503 | delay: 52 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 232 | delay: 54 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 504 | delay: 44 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 233 | delay: 97 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 505 | delay: 74 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 234 | delay: 160 us | jitter: 86 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 506 | delay: 99 us | jitter: 61 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 235 | delay: 86 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 507 | delay: 58 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 236 | delay: 91 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 508 | delay: 56 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 237 | delay: 100 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 509 | delay: 68 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 238 | delay: 52 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 510 | delay: 41 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 511 | delay: 80 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 239 | delay: 29 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 512 | delay: 303 us | jitter: 274 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 240 | delay: 180 us | jitter: 123 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 513 | delay: 45 us | jitter: 135 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 241 | delay: 37 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 514 | delay: 38 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 242 | delay: 34 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 515 | delay: 34 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 243 | delay: 33 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 516 | delay: 33 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 244 | delay: 32 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 517 | delay: 37 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 245 | delay: 55 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 518 | delay: 65 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 246 | delay: 62 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 519 | delay: 38 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 247 | delay: 42 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 520 | delay: 38 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 521 | delay: 52 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 248 | delay: 42 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 522 | delay: 36 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 249 | delay: 68 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 523 | delay: 48 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 250 | delay: 150 us | jitter: 102 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 524 | delay: 75 us | jitter: 75 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 251 | delay: 64 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 525 | delay: 48 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 526 | delay: 553 us | jitter: 505 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 252 | delay: 106 us | jitter: 447 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 527 | delay: 61 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 253 | delay: 146 us | jitter: 85 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 528 | delay: 72 us | jitter: 74 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 254 | delay: 94 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 529 | delay: 53 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 255 | delay: 33 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 530 | delay: 32 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 256 | delay: 31 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 531 | delay: 31 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 257 | delay: 30 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 532 | delay: 31 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 258 | delay: 32 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 533 | delay: 50 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 259 | delay: 45 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 534 | delay: 34 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 260 | delay: 36 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 535 | delay: 54 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 261 | delay: 66 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 536 | delay: 169 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 262 | delay: 37 us | jitter: 132 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 537 | delay: 50 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 263 | delay: 56 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 538 | delay: 49 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 264 | delay: 54 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 539 | delay: 72 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 265 | delay: 34 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 540 | delay: 71 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 266 | delay: 65 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 541 | delay: 119 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 267 | delay: 111 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 542 | delay: 189 us | jitter: 78 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 268 | delay: 159 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 543 | delay: 198 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 269 | delay: 121 us | jitter: 77 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 544 | delay: 185 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 270 | delay: 113 us | jitter: 72 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 545 | delay: 154 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 271 | delay: 118 us | jitter: 36 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 272 | delay: 1163 us | jitter: 1045 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 546 | delay: 344 us | jitter: 819 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 273 | delay: 288 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 547 | delay: 213 us | jitter: 75 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 274 | delay: 274 us | jitter: 61 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 548 | delay: 242 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 275 | delay: 1568 us | jitter: 1326 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 549 | delay: 994 us | jitter: 574 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 276 | delay: 156 us | jitter: 838 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 550 | delay: 126 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 277 | delay: 113 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 551 | delay: 306 us | jitter: 193 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 278 | delay: 190 us | jitter: 116 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 552 | delay: 202 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 279 | delay: 184 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 553 | delay: 879 us | jitter: 695 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 280 | delay: 269 us | jitter: 610 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 554 | delay: 308 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 281 | delay: 176 us | jitter: 132 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 555 | delay: 148 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 282 | delay: 152 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 556 | delay: 141 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 283 | delay: 66 us | jitter: 75 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 557 | delay: 87 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 284 | delay: 66 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 285 | delay: 176 us | jitter: 110 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 558 | delay: 114 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 286 | delay: 74 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 559 | delay: 61 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 287 | delay: 76 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 560 | delay: 46 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 561 | delay: 36 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 288 | delay: 30 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 562 | delay: 34 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 289 | delay: 34 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 563 | delay: 35 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 290 | delay: 33 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 564 | delay: 35 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 291 | delay: 113 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 565 | delay: 89 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 292 | delay: 121 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 566 | delay: 112 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 293 | delay: 112 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 567 | delay: 222 us | jitter: 110 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 294 | delay: 176 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 568 | delay: 150 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 295 | delay: 88 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 296 | delay: 158 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 569 | delay: 50 us | jitter: 108 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 297 | delay: 84 us | jitter: 34 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 570 | delay: 118 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 298 | delay: 39 us | jitter: 79 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 571 | delay: 62 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 299 | delay: 61 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 572 | delay: 34 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 300 | delay: 59 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 573 | delay: 33 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 301 | delay: 34 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 574 | delay: 66 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 302 | delay: 206 us | jitter: 140 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 575 | delay: 71 us | jitter: 135 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 303 | delay: 49 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 576 | delay: 58 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 304 | delay: 44 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 577 | delay: 132 us | jitter: 88 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 305 | delay: 54 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 578 | delay: 225 us | jitter: 171 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 306 | delay: 130 us | jitter: 95 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 579 | delay: 165 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 307 | delay: 142 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 580 | delay: 60 us | jitter: 82 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 308 | delay: 45 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 581 | delay: 93 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 309 | delay: 60 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 310 | delay: 71 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 582 | delay: 60 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 583 | delay: 152 us | jitter: 92 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 311 | delay: 112 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 312 | delay: 351 us | jitter: 239 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 584 | delay: 126 us | jitter: 225 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 313 | delay: 88 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 585 | delay: 68 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 314 | delay: 56 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 586 | delay: 56 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 315 | delay: 61 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 587 | delay: 54 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 316 | delay: 53 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 588 | delay: 62 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 317 | delay: 321 us | jitter: 259 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 589 | delay: 224 us | jitter: 97 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 318 | delay: 144 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 590 | delay: 79 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 319 | delay: 85 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 591 | delay: 68 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 592 | delay: 397 us | jitter: 329 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 320 | delay: 145 us | jitter: 252 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 593 | delay: 187 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 321 | delay: 100 us | jitter: 87 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 322 | delay: 121 us | jitter: 21 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 594 | delay: 58 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 323 | delay: 122 us | jitter: 64 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 595 | delay: 67 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 324 | delay: 154 us | jitter: 87 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 596 | delay: 109 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 325 | delay: 160 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 597 | delay: 120 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 598 | delay: 218 us | jitter: 98 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 326 | delay: 158 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 327 | delay: 323 us | jitter: 165 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 599 | delay: 159 us | jitter: 164 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 328 | delay: 152 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 600 | delay: 161 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 601 | delay: 104 us | jitter: 57 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 329 | delay: 75 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 602 | delay: 83 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 330 | delay: 87 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 603 | delay: 82 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 331 | delay: 80 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 604 | delay: 140 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 332 | delay: 138 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 605 | delay: 138 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 333 | delay: 108 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 606 | delay: 122 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 334 | delay: 114 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 335 | delay: 88 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 607 | delay: 78 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 608 | delay: 137 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 336 | delay: 97 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 337 | delay: 138 us | jitter: 41 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 609 | delay: 92 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 338 | delay: 471 us | jitter: 379 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 610 | delay: 303 us | jitter: 168 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 339 | delay: 60 us | jitter: 243 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 611 | delay: 92 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 340 | delay: 85 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 612 | delay: 86 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 341 | delay: 809 us | jitter: 723 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 613 | delay: 57 us | jitter: 752 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 342 | delay: 159 us | jitter: 102 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 614 | delay: 96 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 343 | delay: 204 us | jitter: 108 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 615 | delay: 138 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 344 | delay: 220 us | jitter: 82 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 616 | delay: 147 us | jitter: 73 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 345 | delay: 277 us | jitter: 130 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 617 | delay: 115 us | jitter: 162 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 346 | delay: 313 us | jitter: 198 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 618 | delay: 261 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 347 | delay: 229 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 619 | delay: 95 us | jitter: 134 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 620 | delay: 49 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 348 | delay: 56 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 621 | delay: 71 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 349 | delay: 74 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 622 | delay: 82 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 350 | delay: 82 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 623 | delay: 89 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 351 | delay: 137 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 624 | delay: 89 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 352 | delay: 98 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 625 | delay: 57 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 353 | delay: 89 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 626 | delay: 56 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 354 | delay: 55 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 627 | delay: 109 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 355 | delay: 54 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 628 | delay: 87 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 356 | delay: 68 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 629 | delay: 179 us | jitter: 111 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 357 | delay: 78 us | jitter: 101 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 630 | delay: 67 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 358 | delay: 261 us | jitter: 194 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 631 | delay: 74 us | jitter: 187 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 359 | delay: 97 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 632 | delay: 56 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 360 | delay: 110 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 633 | delay: 101 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 361 | delay: 47 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 634 | delay: 172 us | jitter: 125 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 362 | delay: 82 us | jitter: 90 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 635 | delay: 284 us | jitter: 202 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 363 | delay: 131 us | jitter: 153 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 636 | delay: 154 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 364 | delay: 97 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 637 | delay: 183 us | jitter: 86 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 365 | delay: 128 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 366 | delay: 125 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 638 | delay: 66 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 367 | delay: 82 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 639 | delay: 53 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 368 | delay: 65 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 640 | delay: 58 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 369 | delay: 81 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 641 | delay: 94 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 370 | delay: 54 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 642 | delay: 49 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 371 | delay: 55 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 643 | delay: 66 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 372 | delay: 67 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 644 | delay: 69 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 373 | delay: 269 us | jitter: 200 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 645 | delay: 233 us | jitter: 36 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 374 | delay: 204 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 646 | delay: 124 us | jitter: 80 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 375 | delay: 214 us | jitter: 90 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 647 | delay: 150 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 376 | delay: 190 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 648 | delay: 131 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 377 | delay: 171 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 649 | delay: 143 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 378 | delay: 152 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 650 | delay: 100 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 651 | delay: 143 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 379 | delay: 107 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 652 | delay: 150 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 380 | delay: 100 us | jitter: 50 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 381 | delay: 75 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 653 | delay: 66 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 382 | delay: 76 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 654 | delay: 79 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 383 | delay: 56 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 655 | delay: 98 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 384 | delay: 103 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 656 | delay: 149 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 385 | delay: 118 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 657 | delay: 67 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 386 | delay: 74 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 658 | delay: 52 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 387 | delay: 52 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 659 | delay: 57 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 388 | delay: 64 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 660 | delay: 52 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 389 | delay: 51 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 661 | delay: 52 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 390 | delay: 72 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 662 | delay: 51 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 391 | delay: 49 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 663 | delay: 54 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 392 | delay: 58 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 664 | delay: 61 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 393 | delay: 67 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 665 | delay: 93 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 394 | delay: 77 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 666 | delay: 167 us | jitter: 90 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 395 | delay: 127 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 396 | delay: 136 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 667 | delay: 121 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 397 | delay: 155 us | jitter: 34 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 668 | delay: 89 us | jitter: 66 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 669 | delay: 99 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 398 | delay: 61 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 670 | delay: 696 us | jitter: 635 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 399 | delay: 139 us | jitter: 557 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 671 | delay: 74 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 400 | delay: 70 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 672 | delay: 87 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 401 | delay: 126 us | jitter: 39 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 673 | delay: 77 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 402 | delay: 80 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 674 | delay: 106 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 403 | delay: 81 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 675 | delay: 87 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 404 | delay: 80 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 676 | delay: 80 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 405 | delay: 87 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 677 | delay: 85 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 406 | delay: 102 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 678 | delay: 60 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 407 | delay: 77 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 679 | delay: 36 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 408 | delay: 55 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 680 | delay: 52 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 409 | delay: 51 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 681 | delay: 48 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 410 | delay: 46 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 682 | delay: 48 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 411 | delay: 31 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 683 | delay: 54 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 412 | delay: 35 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 684 | delay: 31 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 413 | delay: 47 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 414 | delay: 48 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 685 | delay: 38 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 415 | delay: 106 us | jitter: 68 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 686 | delay: 47 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 416 | delay: 192 us | jitter: 145 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 687 | delay: 129 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 417 | delay: 212 us | jitter: 83 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 688 | delay: 174 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 418 | delay: 139 us | jitter: 35 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 689 | delay: 102 us | jitter: 37 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 690 | delay: 370 us | jitter: 268 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 419 | delay: 241 us | jitter: 129 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 420 | delay: 261 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 691 | delay: 123 us | jitter: 138 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 692 | delay: 60 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 421 | delay: 66 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 693 | delay: 83 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 422 | delay: 92 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 694 | delay: 796 us | jitter: 704 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 423 | delay: 130 us | jitter: 666 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 695 | delay: 45 us | jitter: 85 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 424 | delay: 57 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 696 | delay: 52 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 425 | delay: 56 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 697 | delay: 50 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 426 | delay: 60 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 698 | delay: 121 us | jitter: 61 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 427 | delay: 71 us | jitter: 50 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 699 | delay: 48 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 428 | delay: 51 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 700 | delay: 49 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 429 | delay: 92 us | jitter: 43 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 701 | delay: 32 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 430 | delay: 40 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 702 | delay: 36 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 703 | delay: 335 us | jitter: 299 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 431 | delay: 273 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 704 | delay: 330 us | jitter: 57 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 432 | delay: 113 us | jitter: 217 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 705 | delay: 194 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 433 | delay: 168 us | jitter: 26 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 706 | delay: 364 us | jitter: 196 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 434 | delay: 245 us | jitter: 119 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 707 | delay: 198 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 435 | delay: 182 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 708 | delay: 226 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 436 | delay: 146 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 709 | delay: 1401 us | jitter: 1255 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 710 | delay: 283 us | jitter: 1118 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 437 | delay: 225 us | jitter: 58 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 711 | delay: 398 us | jitter: 173 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 438 | delay: 321 us | jitter: 77 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 712 | delay: 125 us | jitter: 196 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 439 | delay: 111 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 713 | delay: 85 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 440 | delay: 75 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 441 | delay: 111 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 714 | delay: 104 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 715 | delay: 379 us | jitter: 275 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 442 | delay: 116 us | jitter: 263 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 716 | delay: 101 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 443 | delay: 88 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 717 | delay: 183 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 444 | delay: 125 us | jitter: 58 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 718 | delay: 132 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 445 | delay: 112 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 719 | delay: 89 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 446 | delay: 87 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 720 | delay: 155 us | jitter: 68 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 447 | delay: 103 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 448 | delay: 172 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 721 | delay: 115 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 722 | delay: 132 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 449 | delay: 137 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 450 | delay: 80 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 723 | delay: 71 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 451 | delay: 162 us | jitter: 91 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 724 | delay: 92 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 452 | delay: 170 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 725 | delay: 156 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 453 | delay: 124 us | jitter: 32 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 726 | delay: 88 us | jitter: 36 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 454 | delay: 100 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 727 | delay: 47 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 455 | delay: 147 us | jitter: 100 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 728 | delay: 81 us | jitter: 66 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 729 | delay: 96 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 456 | delay: 46 us | jitter: 50 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 730 | delay: 126 us | jitter: 80 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 457 | delay: 93 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 458 | delay: 187 us | jitter: 94 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 731 | delay: 177 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 459 | delay: 213 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 732 | delay: 154 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 460 | delay: 21689 us | jitter: 21535 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 733 | delay: 21669 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 734 | delay: 170 us | jitter: 21499 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 461 | delay: 824 us | jitter: 654 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 735 | delay: 146 us | jitter: 678 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 462 | delay: 286 us | jitter: 140 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 736 | delay: 191 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 463 | delay: 338 us | jitter: 147 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 737 | delay: 1320 us | jitter: 982 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 738 | delay: 342 us | jitter: 978 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 464 | delay: 441 us | jitter: 99 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 739 | delay: 104 us | jitter: 337 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 465 | delay: 820 us | jitter: 716 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 466 | delay: 74 us | jitter: 746 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 740 | delay: 39 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 467 | delay: 48 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 741 | delay: 46 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 468 | delay: 48 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 742 | delay: 44 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 469 | delay: 31 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 743 | delay: 44 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 470 | delay: 46 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 744 | delay: 47 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 471 | delay: 233 us | jitter: 186 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 745 | delay: 106 us | jitter: 127 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 472 | delay: 56 us | jitter: 50 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 473 | delay: 126 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 746 | delay: 70 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 474 | delay: 129 us | jitter: 59 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 747 | delay: 69 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 475 | delay: 51 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 748 | delay: 40 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 749 | delay: 92 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 476 | delay: 43 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 750 | delay: 128 us | jitter: 85 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 477 | delay: 219 us | jitter: 91 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 751 | delay: 220 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 478 | delay: 106 us | jitter: 114 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 752 | delay: 97 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 479 | delay: 101 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 753 | delay: 83 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 480 | delay: 74 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 754 | delay: 124 us | jitter: 50 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 481 | delay: 105 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 755 | delay: 246 us | jitter: 141 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 482 | delay: 162 us | jitter: 84 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 756 | delay: 147 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 483 | delay: 111 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 757 | delay: 148 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 484 | delay: 85 us | jitter: 63 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 758 | delay: 94 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 485 | delay: 84 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 759 | delay: 79 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 486 | delay: 77 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 760 | delay: 110 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 487 | delay: 54 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 761 | delay: 82 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 488 | delay: 67 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 762 | delay: 80 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 489 | delay: 838 us | jitter: 758 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 490 | delay: 115 us | jitter: 723 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 763 | delay: 83 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 491 | delay: 82 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 764 | delay: 73 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 765 | delay: 106 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 492 | delay: 83 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 766 | delay: 105 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 493 | delay: 59 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 767 | delay: 167 us | jitter: 108 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 494 | delay: 146 us | jitter: 21 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 768 | delay: 158 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 495 | delay: 107 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 496 | delay: 1423 us | jitter: 1316 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 769 | delay: 1413 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 497 | delay: 134 us | jitter: 1279 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 770 | delay: 90 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 498 | delay: 222 us | jitter: 132 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 771 | delay: 141 us | jitter: 81 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 772 | delay: 182 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 499 | delay: 58 us | jitter: 124 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 500 | delay: 50 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 773 | delay: 53 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 774 | delay: 68 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 501 | delay: 58 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 775 | delay: 96 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 502 | delay: 98 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 776 | delay: 336 us | jitter: 238 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 503 | delay: 341 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 777 | delay: 162 us | jitter: 179 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 504 | delay: 100 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 505 | delay: 125 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 778 | delay: 94 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 506 | delay: 156 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 779 | delay: 113 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 507 | delay: 92 us | jitter: 21 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 780 | delay: 67 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 508 | delay: 112 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 781 | delay: 74 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 509 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 782 | delay: 91 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 510 | delay: 155 us | jitter: 64 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 783 | delay: 110 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 784 | delay: 1539 us | jitter: 1429 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 511 | delay: 1447 us | jitter: 92 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 785 | delay: 462 us | jitter: 985 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 512 | delay: 351 us | jitter: 111 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 786 | delay: 216 us | jitter: 135 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 513 | delay: 149 us | jitter: 67 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 787 | delay: 125 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 514 | delay: 74 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 788 | delay: 105 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 515 | delay: 98 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 516 | delay: 230 us | jitter: 132 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 789 | delay: 143 us | jitter: 87 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 790 | delay: 103 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 517 | delay: 57 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 791 | delay: 197 us | jitter: 140 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 518 | delay: 112 us | jitter: 85 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 792 | delay: 134 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 519 | delay: 86 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 520 | delay: 77 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 793 | delay: 66 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 794 | delay: 124 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 521 | delay: 94 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 522 | delay: 140 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 795 | delay: 100 us | jitter: 40 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 796 | delay: 130 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 523 | delay: 103 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 524 | delay: 86 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 797 | delay: 89 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 798 | delay: 86 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 525 | delay: 92 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 526 | delay: 84 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 799 | delay: 130 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 527 | delay: 94 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 800 | delay: 97 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 528 | delay: 145 us | jitter: 48 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 801 | delay: 107 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 529 | delay: 213 us | jitter: 106 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 802 | delay: 152 us | jitter: 61 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 803 | delay: 93 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 530 | delay: 137 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 804 | delay: 157 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 531 | delay: 119 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 805 | delay: 307 us | jitter: 188 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 532 | delay: 238 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 806 | delay: 129 us | jitter: 109 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 533 | delay: 155 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 534 | delay: 88 us | jitter: 67 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 807 | delay: 84 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 808 | delay: 80 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 535 | delay: 71 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 809 | delay: 104 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 536 | delay: 96 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 810 | delay: 173 us | jitter: 77 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 537 | delay: 101 us | jitter: 72 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 538 | delay: 139 us | jitter: 38 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 811 | delay: 64 us | jitter: 75 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 539 | delay: 124 us | jitter: 60 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 812 | delay: 70 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 540 | delay: 82 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 813 | delay: 74 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 541 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 814 | delay: 90 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 542 | delay: 202 us | jitter: 112 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 815 | delay: 276 us | jitter: 74 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 543 | delay: 95 us | jitter: 181 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 816 | delay: 75 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 544 | delay: 80 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 817 | delay: 74 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 545 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 818 | delay: 92 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 546 | delay: 143 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 819 | delay: 55 us | jitter: 88 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 547 | delay: 94 us | jitter: 39 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 820 | delay: 146 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 548 | delay: 76 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 821 | delay: 108 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 549 | delay: 59 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 822 | delay: 45 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 550 | delay: 61 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 823 | delay: 296 us | jitter: 235 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 551 | delay: 135 us | jitter: 161 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 552 | delay: 57 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 824 | delay: 42 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 553 | delay: 47 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 825 | delay: 52 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 554 | delay: 54 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 826 | delay: 52 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 555 | delay: 60 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 827 | delay: 53 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 556 | delay: 53 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 828 | delay: 58 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 557 | delay: 52 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 829 | delay: 70 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 558 | delay: 33 us | jitter: 37 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 830 | delay: 63 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 559 | delay: 32 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 831 | delay: 32 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 560 | delay: 50 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 832 | delay: 79 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 561 | delay: 70 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 833 | delay: 48 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 562 | delay: 2558 us | jitter: 2510 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 834 | delay: 2477 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 563 | delay: 420 us | jitter: 2057 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 835 | delay: 283 us | jitter: 137 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 564 | delay: 290 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 836 | delay: 369 us | jitter: 79 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 565 | delay: 207 us | jitter: 162 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 837 | delay: 161 us | jitter: 46 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 838 | delay: 1371 us | jitter: 1210 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 839 | delay: 254 us | jitter: 1117 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 566 | delay: 182 us | jitter: 72 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 840 | delay: 85 us | jitter: 97 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 567 | delay: 66 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 841 | delay: 72 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 568 | delay: 64 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 842 | delay: 70 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 569 | delay: 64 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 843 | delay: 62 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 570 | delay: 72 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 844 | delay: 63 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 571 | delay: 63 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 845 | delay: 67 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 572 | delay: 132 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 846 | delay: 51 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 573 | delay: 52 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 847 | delay: 51 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 574 | delay: 51 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 848 | delay: 52 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 575 | delay: 53 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 849 | delay: 45 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 576 | delay: 48 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 850 | delay: 47 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 577 | delay: 90 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 578 | delay: 99 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 851 | delay: 43 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 579 | delay: 120 us | jitter: 77 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 852 | delay: 92 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 580 | delay: 240 us | jitter: 148 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 853 | delay: 167 us | jitter: 73 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 581 | delay: 105 us | jitter: 62 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 854 | delay: 48 us | jitter: 57 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 855 | delay: 88 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 582 | delay: 28 us | jitter: 60 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 856 | delay: 46 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 583 | delay: 63 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 857 | delay: 59 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 584 | delay: 62 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 858 | delay: 100 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 585 | delay: 85 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 859 | delay: 77 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 586 | delay: 80 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 860 | delay: 75 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 587 | delay: 111 us | jitter: 36 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 861 | delay: 91 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 588 | delay: 76 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 862 | delay: 124 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 589 | delay: 118 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 863 | delay: 254 us | jitter: 136 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 590 | delay: 227 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 591 | delay: 158 us | jitter: 69 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 864 | delay: 114 us | jitter: 44 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 865 | delay: 169 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 592 | delay: 101 us | jitter: 68 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 866 | delay: 91 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 593 | delay: 74 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 867 | delay: 76 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 594 | delay: 98 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 868 | delay: 54 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 595 | delay: 68 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 869 | delay: 75 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 596 | delay: 74 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 870 | delay: 77 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 597 | delay: 87 us | jitter: 10 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 871 | delay: 6594 us | jitter: 6507 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 598 | delay: 279 us | jitter: 6315 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 872 | delay: 104 us | jitter: 175 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 599 | delay: 293 us | jitter: 189 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 873 | delay: 204 us | jitter: 89 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 600 | delay: 153 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 874 | delay: 107 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 601 | delay: 328 us | jitter: 221 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 875 | delay: 286 us | jitter: 42 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 876 | delay: 132 us | jitter: 154 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 602 | delay: 66 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 603 | delay: 95 us | jitter: 29 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 877 | delay: 94 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 604 | delay: 212 us | jitter: 118 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 878 | delay: 195 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 605 | delay: 70 us | jitter: 125 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 879 | delay: 45 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 606 | delay: 58 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 880 | delay: 63 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 607 | delay: 46 us | jitter: 17 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 881 | delay: 44 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 608 | delay: 55 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 882 | delay: 51 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 609 | delay: 57 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 883 | delay: 50 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 610 | delay: 51 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 884 | delay: 84 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 611 | delay: 56 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 885 | delay: 327 us | jitter: 271 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 612 | delay: 60 us | jitter: 267 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 886 | delay: 56 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 613 | delay: 60 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 887 | delay: 219 us | jitter: 159 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 614 | delay: 31 us | jitter: 188 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 888 | delay: 46 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 615 | delay: 31 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 616 | delay: 111 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 889 | delay: 60 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 617 | delay: 52 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 890 | delay: 48 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 618 | delay: 330 us | jitter: 282 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 891 | delay: 253 us | jitter: 77 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 619 | delay: 204 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 892 | delay: 97 us | jitter: 107 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 620 | delay: 387 us | jitter: 290 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 893 | delay: 224 us | jitter: 163 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 621 | delay: 931 us | jitter: 707 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 894 | delay: 2130 us | jitter: 1199 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 622 | delay: 1404 us | jitter: 726 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 895 | delay: 1814 us | jitter: 410 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 623 | delay: 410 us | jitter: 1404 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 896 | delay: 373 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 624 | delay: 384 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 897 | delay: 236 us | jitter: 148 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 625 | delay: 123 us | jitter: 113 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 898 | delay: 133 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 626 | delay: 128 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 899 | delay: 143 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 900 | delay: 310 us | jitter: 167 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 627 | delay: 254 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 901 | delay: 112 us | jitter: 142 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 628 | delay: 100 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 902 | delay: 132 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 629 | delay: 89 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 630 | delay: 94 us | jitter: 5 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 903 | delay: 71 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 631 | delay: 96 us | jitter: 25 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 904 | delay: 164 us | jitter: 68 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 905 | delay: 97 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 632 | delay: 204 us | jitter: 107 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 906 | delay: 116 us | jitter: 88 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 633 | delay: 112 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 634 | delay: 97 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 907 | delay: 98 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 635 | delay: 91 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 908 | delay: 83 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 909 | delay: 89 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 636 | delay: 110 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 637 | delay: 970 us | jitter: 860 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 910 | delay: 1038 us | jitter: 68 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 911 | delay: 84 us | jitter: 954 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 638 | delay: 78 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 912 | delay: 175 us | jitter: 97 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 639 | delay: 117 us | jitter: 58 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 913 | delay: 179 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 640 | delay: 157 us | jitter: 22 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 914 | delay: 248 us | jitter: 91 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 641 | delay: 170 us | jitter: 78 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 915 | delay: 174 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 642 | delay: 104 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 643 | delay: 119 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 916 | delay: 89 us | jitter: 30 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 917 | delay: 171 us | jitter: 82 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 644 | delay: 134 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 645 | delay: 179 us | jitter: 45 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 918 | delay: 99 us | jitter: 80 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 646 | delay: 92 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 919 | delay: 69 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 647 | delay: 100 us | jitter: 31 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 920 | delay: 87 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 648 | delay: 76 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 921 | delay: 82 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 649 | delay: 110 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 922 | delay: 80 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 650 | delay: 82 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 923 | delay: 79 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 651 | delay: 79 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 924 | delay: 84 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 652 | delay: 84 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 925 | delay: 101 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 653 | delay: 85 us | jitter: 16 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 926 | delay: 79 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 654 | delay: 172 us | jitter: 93 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 927 | delay: 83 us | jitter: 89 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 655 | delay: 63 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 928 | delay: 59 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 656 | delay: 57 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 929 | delay: 60 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 657 | delay: 56 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 930 | delay: 856 us | jitter: 800 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 931 | delay: 126 us | jitter: 730 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 658 | delay: 73 us | jitter: 53 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 932 | delay: 181 us | jitter: 108 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 659 | delay: 108 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 933 | delay: 100 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 660 | delay: 88 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 934 | delay: 255 us | jitter: 167 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 661 | delay: 151 us | jitter: 104 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 935 | delay: 177 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 662 | delay: 119 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 663 | delay: 221 us | jitter: 102 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 936 | delay: 94 us | jitter: 127 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 664 | delay: 122 us | jitter: 28 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 937 | delay: 68 us | jitter: 54 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 938 | delay: 1042 us | jitter: 974 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 665 | delay: 843 us | jitter: 199 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 939 | delay: 256 us | jitter: 587 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 666 | delay: 142 us | jitter: 114 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 940 | delay: 162 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 667 | delay: 111 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 941 | delay: 80 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 668 | delay: 71 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 669 | delay: 85 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 942 | delay: 88 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 943 | delay: 88 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 670 | delay: 120 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 671 | delay: 172 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 944 | delay: 140 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 672 | delay: 129 us | jitter: 11 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 945 | delay: 83 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 673 | delay: 90 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 946 | delay: 80 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 674 | delay: 88 us | jitter: 8 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 947 | delay: 75 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 675 | delay: 148 us | jitter: 73 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 948 | delay: 78 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 676 | delay: 201 us | jitter: 123 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 949 | delay: 147 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 677 | delay: 181 us | jitter: 34 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 950 | delay: 247 us | jitter: 66 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 951 | delay: 174 us | jitter: 73 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 678 | delay: 94 us | jitter: 80 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 952 | delay: 170 us | jitter: 76 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 679 | delay: 102 us | jitter: 68 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 680 | delay: 125 us | jitter: 23 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 953 | delay: 99 us | jitter: 26 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 681 | delay: 101 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 954 | delay: 71 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 682 | delay: 120 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 955 | delay: 54 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 683 | delay: 69 us | jitter: 15 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 956 | delay: 78 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 684 | delay: 134 us | jitter: 56 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 957 | delay: 78 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 685 | delay: 129 us | jitter: 51 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 958 | delay: 1055 us | jitter: 926 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 686 | delay: 48 us | jitter: 1007 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 959 | delay: 127 us | jitter: 79 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 687 | delay: 257 us | jitter: 130 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 960 | delay: 150 us | jitter: 107 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 688 | delay: 150 us | jitter: 0 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 961 | delay: 109 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 689 | delay: 128 us | jitter: 19 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 962 | delay: 79 us | jitter: 49 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 963 | delay: 199 us | jitter: 120 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 690 | delay: 136 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 691 | delay: 299 us | jitter: 163 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 964 | delay: 225 us | jitter: 74 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 965 | delay: 181 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 692 | delay: 167 us | jitter: 14 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 966 | delay: 87 us | jitter: 80 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 693 | delay: 91 us | jitter: 4 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 967 | delay: 74 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 694 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 968 | delay: 74 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 695 | delay: 73 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 969 | delay: 80 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 696 | delay: 132 us | jitter: 52 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 970 | delay: 153 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 697 | delay: 88 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 971 | delay: 126 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 698 | delay: 71 us | jitter: 55 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 972 | delay: 74 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 699 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 973 | delay: 92 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 700 | delay: 80 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 974 | delay: 74 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 701 | delay: 80 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 975 | delay: 74 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 702 | delay: 144 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 976 | delay: 82 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 703 | delay: 73 us | jitter: 9 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 977 | delay: 80 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 704 | delay: 73 us | jitter: 7 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 978 | delay: 265 us | jitter: 192 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 705 | delay: 218 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 706 | delay: 904 us | jitter: 686 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 979 | delay: 891 us | jitter: 13 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 980 | delay: 91 us | jitter: 800 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 707 | delay: 41 us | jitter: 50 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 981 | delay: 127 us | jitter: 86 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 708 | delay: 93 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 709 | delay: 153 us | jitter: 60 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 982 | delay: 142 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 710 | delay: 109 us | jitter: 33 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 983 | delay: 136 us | jitter: 27 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 984 | delay: 83 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 711 | delay: 76 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 712 | delay: 82 us | jitter: 6 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 985 | delay: 80 us | jitter: 2 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 986 | delay: 86 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 713 | delay: 84 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 714 | delay: 102 us | jitter: 18 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 987 | delay: 93 us | jitter: 9 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 715 | delay: 179 us | jitter: 86 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 988 | delay: 97 us | jitter: 82 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 716 | delay: 94 us | jitter: 3 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 989 | delay: 56 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 717 | delay: 55 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 990 | delay: 56 us | jitter: 1 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 991 | delay: 77 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 718 | delay: 65 us | jitter: 12 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 992 | delay: 130 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 719 | delay: 110 us | jitter: 20 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 993 | delay: 252 us | jitter: 142 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 720 | delay: 169 us | jitter: 83 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 994 | delay: 276 us | jitter: 107 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 721 | delay: 212 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 722 | delay: 142 us | jitter: 70 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 995 | delay: 59 us | jitter: 83 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 723 | delay: 202 us | jitter: 143 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 996 | delay: 112 us | jitter: 90 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 724 | delay: 269 us | jitter: 157 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 997 | delay: 205 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 725 | delay: 270 us | jitter: 65 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 998 | delay: 102 us | jitter: 168 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 999 | delay: 113 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 726 | delay: 46 us | jitter: 67 us | payload: -
+[VLAN] PCP=3 VID=100
+[UDP] 33333 -> 44444 | seq: 1000 | delay: 70 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 727 | delay: 75 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 728 | delay: 199 us | jitter: 124 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 729 | delay: 96 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 730 | delay: 48 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 731 | delay: 175 us | jitter: 127 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 732 | delay: 89 us | jitter: 86 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 733 | delay: 111 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 734 | delay: 48 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 735 | delay: 132 us | jitter: 84 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 736 | delay: 110 us | jitter: 22 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 737 | delay: 201 us | jitter: 91 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 738 | delay: 103 us | jitter: 98 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 739 | delay: 150 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 740 | delay: 69 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 741 | delay: 74 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 742 | delay: 60 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 743 | delay: 199 us | jitter: 139 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 744 | delay: 116 us | jitter: 83 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 745 | delay: 76 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 746 | delay: 171 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 747 | delay: 117 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 748 | delay: 102 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 749 | delay: 103 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 750 | delay: 173 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 751 | delay: 150 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 752 | delay: 93 us | jitter: 57 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 753 | delay: 79 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 754 | delay: 91 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 755 | delay: 105 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 756 | delay: 89 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 757 | delay: 221 us | jitter: 132 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 758 | delay: 119 us | jitter: 102 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 759 | delay: 133 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 760 | delay: 117 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 761 | delay: 70 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 762 | delay: 130 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 763 | delay: 65 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 764 | delay: 472 us | jitter: 407 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 765 | delay: 63 us | jitter: 409 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 766 | delay: 219 us | jitter: 156 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 767 | delay: 152 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 768 | delay: 210 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 769 | delay: 121 us | jitter: 89 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 770 | delay: 218 us | jitter: 97 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 771 | delay: 152 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 772 | delay: 195 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 773 | delay: 79 us | jitter: 116 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 774 | delay: 109 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 775 | delay: 220 us | jitter: 111 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 776 | delay: 202 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 777 | delay: 865 us | jitter: 663 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 778 | delay: 107 us | jitter: 758 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 779 | delay: 72 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 780 | delay: 90 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 781 | delay: 71 us | jitter: 19 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 782 | delay: 54 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 783 | delay: 149 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 784 | delay: 53 us | jitter: 96 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 785 | delay: 55 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 786 | delay: 69 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 787 | delay: 46 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 788 | delay: 52 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 789 | delay: 81 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 790 | delay: 135 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 791 | delay: 120 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 792 | delay: 34 us | jitter: 86 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 793 | delay: 163 us | jitter: 129 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 794 | delay: 115 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 795 | delay: 77 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 796 | delay: 132 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 797 | delay: 233 us | jitter: 101 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 798 | delay: 74 us | jitter: 159 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 799 | delay: 93 us | jitter: 19 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 800 | delay: 88 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 801 | delay: 89 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 802 | delay: 103 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 803 | delay: 167 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 804 | delay: 104 us | jitter: 63 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 805 | delay: 131 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 806 | delay: 102 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 807 | delay: 187 us | jitter: 85 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 808 | delay: 78 us | jitter: 109 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 809 | delay: 117 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 810 | delay: 145 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 811 | delay: 78 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 812 | delay: 32 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 813 | delay: 47 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 814 | delay: 330 us | jitter: 283 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 815 | delay: 141 us | jitter: 189 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 816 | delay: 91 us | jitter: 50 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 817 | delay: 224 us | jitter: 133 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 818 | delay: 90 us | jitter: 134 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 819 | delay: 110 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 820 | delay: 93 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 821 | delay: 91 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 822 | delay: 35 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 823 | delay: 39 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 824 | delay: 69 us | jitter: 30 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 825 | delay: 58 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 826 | delay: 105 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 827 | delay: 87 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 828 | delay: 133 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 829 | delay: 120 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 830 | delay: 223 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 831 | delay: 194 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 832 | delay: 132 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 833 | delay: 101 us | jitter: 31 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 834 | delay: 196 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 835 | delay: 241 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 836 | delay: 38 us | jitter: 203 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 837 | delay: 76 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 838 | delay: 189 us | jitter: 113 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 839 | delay: 55 us | jitter: 134 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 840 | delay: 80 us | jitter: 25 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 841 | delay: 87 us | jitter: 7 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 842 | delay: 60 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 843 | delay: 80 us | jitter: 20 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 844 | delay: 215 us | jitter: 135 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 845 | delay: 70 us | jitter: 145 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 846 | delay: 130 us | jitter: 60 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 847 | delay: 445 us | jitter: 315 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 848 | delay: 112 us | jitter: 333 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 849 | delay: 139 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 850 | delay: 122 us | jitter: 17 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 851 | delay: 188 us | jitter: 66 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 852 | delay: 129 us | jitter: 59 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 853 | delay: 150 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 854 | delay: 65 us | jitter: 85 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 855 | delay: 62 us | jitter: 3 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 856 | delay: 123 us | jitter: 61 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 857 | delay: 117 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 858 | delay: 105 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 859 | delay: 35 us | jitter: 70 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 860 | delay: 35 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 861 | delay: 53 us | jitter: 18 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 862 | delay: 64 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 863 | delay: 53 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 864 | delay: 61 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 865 | delay: 71 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 866 | delay: 81 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 867 | delay: 96 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 868 | delay: 54 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 869 | delay: 46 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 870 | delay: 101 us | jitter: 55 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 871 | delay: 100 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 872 | delay: 203 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 873 | delay: 94 us | jitter: 109 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 874 | delay: 214 us | jitter: 120 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 875 | delay: 84 us | jitter: 130 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 876 | delay: 52 us | jitter: 32 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 877 | delay: 105 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 878 | delay: 408 us | jitter: 303 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 879 | delay: 99 us | jitter: 309 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 880 | delay: 47 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 881 | delay: 66 us | jitter: 19 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 882 | delay: 124 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 883 | delay: 62 us | jitter: 62 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 884 | delay: 140 us | jitter: 78 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 885 | delay: 129 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 886 | delay: 176 us | jitter: 47 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 887 | delay: 132 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 888 | delay: 380 us | jitter: 248 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 889 | delay: 101 us | jitter: 279 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 890 | delay: 88 us | jitter: 13 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 891 | delay: 152 us | jitter: 64 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 892 | delay: 561 us | jitter: 409 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 893 | delay: 261 us | jitter: 300 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 894 | delay: 733 us | jitter: 472 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 895 | delay: 450 us | jitter: 283 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 896 | delay: 517 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 897 | delay: 267 us | jitter: 250 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 898 | delay: 129 us | jitter: 138 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 899 | delay: 117 us | jitter: 12 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 900 | delay: 102 us | jitter: 15 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 901 | delay: 57 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 902 | delay: 95 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 903 | delay: 99 us | jitter: 4 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 904 | delay: 115 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 905 | delay: 254 us | jitter: 139 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 906 | delay: 96 us | jitter: 158 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 907 | delay: 223 us | jitter: 127 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 908 | delay: 172 us | jitter: 51 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 909 | delay: 188 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 910 | delay: 76 us | jitter: 112 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 911 | delay: 807 us | jitter: 731 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 912 | delay: 112 us | jitter: 695 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 913 | delay: 45 us | jitter: 67 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 914 | delay: 82 us | jitter: 37 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 915 | delay: 46 us | jitter: 36 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 916 | delay: 52 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 917 | delay: 52 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 918 | delay: 51 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 919 | delay: 51 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 920 | delay: 53 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 921 | delay: 87 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 922 | delay: 45 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 923 | delay: 53 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 924 | delay: 51 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 925 | delay: 56 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 926 | delay: 51 us | jitter: 5 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 927 | delay: 51 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 928 | delay: 127 us | jitter: 76 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 929 | delay: 208 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 930 | delay: 127 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 931 | delay: 48 us | jitter: 79 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 932 | delay: 59 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 933 | delay: 73 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 934 | delay: 207 us | jitter: 134 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 935 | delay: 34 us | jitter: 173 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 936 | delay: 45 us | jitter: 11 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 937 | delay: 312 us | jitter: 267 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 938 | delay: 51 us | jitter: 261 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 939 | delay: 59 us | jitter: 8 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 940 | delay: 111 us | jitter: 52 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 941 | delay: 154 us | jitter: 43 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 942 | delay: 131 us | jitter: 23 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 943 | delay: 133 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 944 | delay: 85 us | jitter: 48 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 945 | delay: 413 us | jitter: 328 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 946 | delay: 210 us | jitter: 203 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 947 | delay: 170 us | jitter: 40 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 948 | delay: 114 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 949 | delay: 108 us | jitter: 6 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 950 | delay: 448 us | jitter: 340 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 951 | delay: 157 us | jitter: 291 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 952 | delay: 710 us | jitter: 553 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 953 | delay: 133 us | jitter: 577 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 954 | delay: 154 us | jitter: 21 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 955 | delay: 249 us | jitter: 95 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 956 | delay: 126 us | jitter: 123 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 957 | delay: 77 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 958 | delay: 93 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 959 | delay: 83 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 960 | delay: 118 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 961 | delay: 167 us | jitter: 49 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 962 | delay: 166 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 963 | delay: 127 us | jitter: 39 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 964 | delay: 42 us | jitter: 85 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 965 | delay: 56 us | jitter: 14 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 966 | delay: 109 us | jitter: 53 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 967 | delay: 109 us | jitter: 0 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 968 | delay: 80 us | jitter: 29 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 969 | delay: 70 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 970 | delay: 116 us | jitter: 46 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 971 | delay: 117 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 972 | delay: 127 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 973 | delay: 125 us | jitter: 2 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 974 | delay: 179 us | jitter: 54 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 975 | delay: 98 us | jitter: 81 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 976 | delay: 126 us | jitter: 28 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 977 | delay: 167 us | jitter: 41 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 978 | delay: 191 us | jitter: 24 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 979 | delay: 61 us | jitter: 130 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 980 | delay: 118 us | jitter: 57 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 981 | delay: 221 us | jitter: 103 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 982 | delay: 69 us | jitter: 152 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 983 | delay: 113 us | jitter: 44 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 984 | delay: 75 us | jitter: 38 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 985 | delay: 219 us | jitter: 144 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 986 | delay: 76 us | jitter: 143 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 987 | delay: 111 us | jitter: 35 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 988 | delay: 167 us | jitter: 56 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 989 | delay: 109 us | jitter: 58 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 990 | delay: 154 us | jitter: 45 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 991 | delay: 121 us | jitter: 33 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 992 | delay: 87 us | jitter: 34 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 993 | delay: 88 us | jitter: 1 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 994 | delay: 46 us | jitter: 42 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 995 | delay: 147 us | jitter: 101 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 996 | delay: 157 us | jitter: 10 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 997 | delay: 92 us | jitter: 65 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 998 | delay: 76 us | jitter: 16 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 999 | delay: 49 us | jitter: 27 us | payload: -
+[VLAN] PCP=5 VID=200
+[UDP] 33334 -> 55555 | seq: 1000 | delay: 54 us | jitter: 5 us | payload: -

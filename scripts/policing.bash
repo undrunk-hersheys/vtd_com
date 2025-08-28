@@ -6,7 +6,7 @@ IF=tap1
 # 0) clsact 달기 (있으면 패스)
 sudo tc qdisc add dev "$IF" clsact 2>/dev/null || true
 
-# 1) 기존 ingress 필터/체인 정리(선택: 실험 반복 시 깔끔하게)
+# 1) 기존 ingress 필터/체인 정리
 sudo tc filter del dev "$IF" ingress 2>/dev/null || true
 
 # 
