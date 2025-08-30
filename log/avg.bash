@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for f in exp1_nopol.log exp1_pol.log; do
+for f in nopol.log pol.log; do
   echo "== $f (A:44444) =="
   awk '/-> 44444/ {
     for(i=1;i<=NF;i++){

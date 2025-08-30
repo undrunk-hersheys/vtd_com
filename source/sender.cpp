@@ -173,24 +173,63 @@ int main(int argc, char** argv)
     uint32_t seq = seqStart;
 
 
-    for (uint64_t sent = 0; (count == 0) || (sent < count); ++sent) {
-        TsHeader header{ now_us(), seq++ };
-        std::vector<uint8_t> payload(sizeof(header) + msglen);
-        std::memcpy(payload.data(), &header, sizeof(header));   
-        std::memcpy(payload.data() + sizeof(header), msg, msglen);
+    // for (uint64_t sent = 0; (count == 0) || (sent < count); ++sent) {
+    //     TsHeader header{ now_us(), seq++ };
+    //     std::vector<uint8_t> payload(sizeof(header) + msglen);
+    //     std::memcpy(payload.data(), &header, sizeof(header));   
+    //     std::memcpy(payload.data() + sizeof(header), msg, msglen);
 
-        // ===== L4: UDP =====
-        std::vector<uint8_t> udp_packet = buildUDPPacket(srcPort, dstPort, srcIp, dstIp, payload);
+    //     // ===== L4: UDP =====
+    //     std::vector<uint8_t> udp_packet = buildUDPPacket(srcPort, dstPort, srcIp, dstIp, payload);
 
-        // ===== L3: IPv4 =====
-        std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, srcIp, dstIp, udp_packet, 64);
+    //     // ===== L3: IPv4 =====
+    //     std::vector<uint8_t> ip_packet = buildIPv4Packet(UDP_PROTOCOL, srcIp, dstIp, udp_packet, 64);
 
-        // ===== L2: Ethernet (+VLAN) =====
-        std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
-        // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
+    //     // ===== L2: Ethernet (+VLAN) =====
+    //     std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
+    //     // std::vector<uint8_t> ethernet_frame = buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, false, 0, 0);
 
-        ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
+    //     ssize_t n = write(tapFd, ethernet_frame.data(), static_cast<ssize_t>(ethernet_frame.size()));
         
+    //     if (n < 0) {
+    //         perror("write");
+    //     } else {
+    //         std::cout << "Sent " << n << " bytes on " << tapName << '\n';
+    //     }
+
+    //     if (intervalUs > 0) {
+    //         std::this_thread::sleep_for(std::chrono::microseconds(intervalUs));
+    //     }
+    // }
+    for (uint64_t sent = 0; (count == 0) || (sent < count); ++sent) {
+        // 1) payloadBytes를 진짜로 반영
+        TsHeader header{ now_us(), seq++ };
+
+        // 헤더를 포함해서 정확히 --payload 바이트로 맞춤
+        size_t totalBytes = payloadBytes;                      // 옵션으로 받은 값
+        if (totalBytes < sizeof(header)) totalBytes = sizeof(header);
+
+        std::vector<uint8_t> payload(totalBytes);
+        // 타임스탬프/시퀀스 헤더
+        std::memcpy(payload.data(), &header, sizeof(header));
+        // 나머지 바이트는 패턴으로 채움(원하면 모두 0으로 채워도 됨)
+        for (size_t i = sizeof(header); i < totalBytes; ++i)
+            payload[i] = static_cast<uint8_t>(i);
+
+        // 2) L4: UDP
+        std::vector<uint8_t> udp_packet =
+            buildUDPPacket(srcPort, dstPort, srcIp, dstIp, payload);
+
+        // 3) L3: IPv4  (DF를 쓰지 않는 게 좋으면 ipv4.cpp에서 DF 비트를 끄세요)
+        std::vector<uint8_t> ip_packet =
+            buildIPv4Packet(UDP_PROTOCOL, srcIp, dstIp, udp_packet, 64);
+
+        // 4) L2: Ethernet (+VLAN)
+        std::vector<uint8_t> ethernet_frame =
+            buildEthernetFrame(dstMac, srcMac, ETHERTYPE_IPV4, ip_packet, true, tci, 0);
+
+        ssize_t n = write(tapFd, ethernet_frame.data(),
+                        static_cast<ssize_t>(ethernet_frame.size()));
         if (n < 0) {
             perror("write");
         } else {
