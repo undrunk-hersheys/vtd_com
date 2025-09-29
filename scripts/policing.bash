@@ -3,37 +3,37 @@ set -euo pipefail
 
 IF=tap1
 
-# 0) clsact 달기 (있으면 패스)
+echo "[*] attach clsact (idempotent)"
 sudo tc qdisc add dev "$IF" clsact 2>/dev/null || true
 
-# 1) 기존 ingress 필터/체인 정리
+echo "[*] clear existing ingress filters"
 sudo tc filter del dev "$IF" ingress 2>/dev/null || true
 
-# 
+# ───────────────────────────────────────────────────────────────────
 # 스트림 A: VLAN 100, PCP 3, UDP dst 44444 → 1 Mbit policing
-sudo tc filter add dev "$IF" ingress protocol 802.1Q \
+# 먼저 매칭되도록 낮은 pref 사용
+sudo tc filter add dev "$IF" ingress pref 100 protocol 802.1Q \
   flower \
     vlan_id 100 \
     vlan_prio 3 \
     vlan_ethtype ipv4 \
     ip_proto udp \
     dst_port 44444 \
-  action police rate 1mbit burst 10000 conform-exceed drop \
-  action pass
+  action police rate 1mbit burst 20000 conform-exceed drop
 
-# 스트림 B: VLAN 200, PCP 5, UDP dst 55555 → 500 kbit policing
-sudo tc filter add dev "$IF" ingress protocol 802.1Q \
+# 스트림 B: VLAN 200, PCP 5, UDP dst 55555 → 50 kbit policing
+sudo tc filter add dev "$IF" ingress pref 200 protocol 802.1Q \
   flower \
     vlan_id 200 \
     vlan_prio 5 \
     vlan_ethtype ipv4 \
     ip_proto udp \
     dst_port 55555 \
-  action police rate 500kbit burst 5000 conform-exceed drop \
-  action pass
+  action police rate 50kbit burst 10000 conform-exceed drop
 
-
-sudo tc filter add dev "$IF" ingress pref 10000 protocol all matchall action drop
+# 나머지는 전부 드롭 (가장 마지막에 매칭되게 큰 pref)
+sudo tc filter add dev "$IF" ingress pref 65000 protocol all matchall action drop
+# ───────────────────────────────────────────────────────────────────
 
 echo
 echo "==== ingress filters on $IF ===="
