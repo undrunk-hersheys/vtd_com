@@ -32,7 +32,7 @@ make
   
 ./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10
 
-./log/avg_mdir.bash
+
   
 #### with policing  
   
@@ -45,7 +45,7 @@ make
   
 ./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10
 
-./log/avg_mdir.bash
+
 
 #### to compare
-./scripts/avg.bash  
+./log/avg_mdir.bash
