@@ -37,7 +37,7 @@ make
 #### with policing  
   
 ./scripts/setup_tap_bridge.bash  
-./scripts/policing.bash  
+./scripts/polishing.bash  
   
 ./build/receiver | tee ./log/pol.log  
 
