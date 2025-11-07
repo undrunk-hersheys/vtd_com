@@ -1,34 +1,33 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# ===== 설정 =====
+# ===== Settings =====
 IF="${1:-tap1}"
 
-# 예시 트래픽
-# 스트림 A: VLAN 100, PCP 3, UDP dst 44444 → 100 kbit policing
-RATE_A="${RATE_A:-1000kbit}"
-BURST_A="${BURST_A:-2000}"   # bytes 단위 권장
+# Stream A: VLAN 100, PCP 3, UDP dst 44444 → 100 kbit policing
+RATE_A="${RATE_A:-50000kbit}"
+BURST_A="${BURST_A:-2000}"   # bytes
 DSTPORT_A="${DSTPORT_A:-44444}"
 VID_A="${VID_A:-100}"
 PCP_A="${PCP_A:-3}"
 
-# 스트림 B: VLAN 200, PCP 5, UDP dst 55555 → 50 kbit policing
-RATE_B="${RATE_B:-500kbit}"
+# Stream B: VLAN 200, PCP 5, UDP dst 55555 → 50 kbit policing
+RATE_B="${RATE_B:-10000kbit}"
 BURST_B="${BURST_B:-2000}"
 DSTPORT_B="${DSTPORT_B:-55555}"
 VID_B="${VID_B:-200}"
 PCP_B="${PCP_B:-5}"
 
-# 기타 트래픽 드롭 여부 (true/false)
+# Other traffics on drop (true/false)
 DROP_OTHERS="${DROP_OTHERS:-true}"
 
 echo "[*] Device: $IF"
 
-# clsact 부착 (ingress/egress 훅 열기)
+# clsact attached (ingress/egress hook)
 echo "[*] attach clsact (idempotent)"
 sudo tc qdisc add dev "$IF" clsact 2>/dev/null || true
 
-# 기존 필터 정리
+# delete previous filter
 echo "[*] clear existing filters (ingress/egress)"
 sudo tc filter del dev "$IF" ingress 2>/dev/null || true
 sudo tc filter del dev "$IF" egress  2>/dev/null || true
@@ -59,7 +58,7 @@ sudo tc filter add dev "$IF" egress pref 200 protocol 802.1Q \
     dst_port "$DSTPORT_B" \
   action police rate "$RATE_B" burst "$BURST_B" mtu 1500 conform-exceed drop
 
-# 선택: 나머지 전부 드롭
+# select: drop every other
 if [[ "$DROP_OTHERS" == "true" ]]; then
   echo "[*] drop everything else on EGRESS (pref 65000)"
   sudo tc filter add dev "$IF" egress pref 65000 protocol all matchall action drop
@@ -73,4 +72,11 @@ echo
 echo "==== Qdisc stats on $IF ===="
 sudo tc -s qdisc show dev "$IF"
 
-cat <<'EOF'
+# cat <<'EOF'
+# Usage:
+#   IF=tap1 RATE_A=50000kbit BURST_A=2000 DROP_OTHERS=true ./polishing.bash
+
+# Notes:
+#   - EGRESS policing only, clsact is attached idempotently.
+#   - Change VLAN/PCP/ports via env vars: VID_A, PCP_A, DSTPORT_A, ...
+# EOF

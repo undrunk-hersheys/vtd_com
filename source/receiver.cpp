@@ -58,7 +58,7 @@ int main()
         return 1;
     }
 
-    std::vector<uint8_t> buf(2048);
+    std::vector<uint8_t> buf(2048); //2048
 
     uint64_t prev_latency = 0;
 
@@ -79,7 +79,7 @@ int main()
         if (eth.hasVLAN) {
             uint8_t pcp = getPCP(eth.vlanTCI);
             uint16_t vid = getVID(eth.vlanTCI);
-            std::cout << "[VLAN] PCP=" << (int)pcp << " VID=" << vid << "\n";
+            std::cout << "[VLAN] PCP=" << (int)pcp << " VID=" << vid << ",";
         }
 
         // Layer3 IPv4
@@ -108,13 +108,20 @@ int main()
         uint64_t jitter = prev_latency ? std::llabs((long long)(latency - prev_latency)) : 0;
         prev_latency = latency;
 
-        // Output
-        // std::string text(app.begin(), app.end());
-        std::cout << "[UDP] " << ntohs(udp.srcPort) << " -> " << ntohs(udp.dstPort)
-                  << " | seq: " << h.seq
-                  << " | delay: " << latency << " us"
-                  << " | jitter: " << jitter << " us"
-                  << " | payload: " << text << '\n';
+        // // Output
+        // std::cout << "[UDP] " << ntohs(udp.srcPort) << " -> " << ntohs(udp.dstPort)
+        //           << " | seq: " << h.seq
+        //           << " | delay: " << latency << " us"
+        //           << " | jitter: " << jitter << " us"
+        // //           << " | payload: " << text 
+        //           << '\n';
+        std::cout << ntohs(udp.srcPort) << ","
+          << ntohs(udp.dstPort) << ","
+          << h.seq << ","
+          << latency << ","
+          << jitter
+          << '\n';
+
     }
     close(tapFd);
     return 0;

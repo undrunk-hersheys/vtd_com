@@ -11,6 +11,9 @@ USER_NAME=$(whoami)
 MAC0="de:ad:be:ef:00:01"   # tap0
 MAC1="de:ad:be:ef:00:02"   # tap1
 
+# ---- MTU ----
+MTU_VAL=1500 # default 1500
+
 echo "[*] cleanup"
 sudo ip link del "$TAP0" 2>/dev/null || true
 sudo ip link del "$TAP1" 2>/dev/null || true
@@ -23,10 +26,13 @@ echo "[*] create TAPs"
 sudo ip tuntap add dev "$TAP0" mode tap user "$USER_NAME" multi_queue
 sudo ip tuntap add dev "$TAP1" mode tap user "$USER_NAME" multi_queue
 
-
 echo "[*] set fixed MACs"
 sudo ip link set dev "$TAP0" address "$MAC0"
 sudo ip link set dev "$TAP1" address "$MAC1"
+
+echo "[*] set MTU for TAPs"
+sudo ip link set dev "$TAP0" mtu "$MTU_VAL"
+sudo ip link set dev "$TAP1" mtu "$MTU_VAL"
 
 echo "[*] bring TAPs up (no IPs; pure L2 test)"
 sudo ip addr flush dev "$TAP0" || true

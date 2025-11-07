@@ -30,8 +30,11 @@ make
   
 ./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 10000 --interval-us 10  
   
-./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10
+./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10  
 
+or  
+
+./scripts/auto_run.bash  
 
   
 #### with policing  
@@ -43,8 +46,11 @@ make
 
 ./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 10000 --interval-us 10  
   
-./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10
+./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10  
 
+or  
+
+./scripts/auto_run.bash  
 
 
 #### to compare
