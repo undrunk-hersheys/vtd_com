@@ -9,4 +9,4 @@ log/
 !log/nopol_.log
 
 
-log/30sec/
+!log/30sec/
