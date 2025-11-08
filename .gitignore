@@ -1,12 +1,12 @@
 build/
-log/
+# log/
 
-!log/avg_mdir.bash
-!log/avg.bash
-!log/pol.log
-!log/nopol.log
-!log/pol_.log
-!log/nopol_.log
+# !log/avg_mdir.bash
+# !log/avg.bash
+# !log/pol.log
+# !log/nopol.log
+# !log/pol_.log
+# !log/nopol_.log
 
 
-!log/30sec/
+# !log/30sec/
