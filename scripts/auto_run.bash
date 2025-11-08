@@ -25,8 +25,8 @@ fi
 
 # commands runs in each terminal
 CMD1="./build/receiver | tee ./log/nopol.csv"
-CMD2="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 10000 --interval-us 10"
-CMD3="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10"
+CMD2="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 300000 --interval-us 10"
+CMD3="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 300000 --interval-us 10"
 
 # xfce4-terminal, gnome-terminal, xterm
 case "$TERM_CMD" in
@@ -63,8 +63,8 @@ sleep 2
 # commands runs in each terminal
 CMD4="./build/receiver | tee ./log/pol.csv"
 # CMD1="./build/receiver | tee ./log/pol.log"
-CMD5="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 10000 --interval-us 10"
-CMD6="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 10000 --interval-us 10"
+CMD5="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 3 --vid 100 --src-port 33333 --dst-port 44444 --payload 1000 --count 300000 --interval-us 10"
+CMD6="./build/sender --tap tap0 --dst-mac de:ad:be:ef:00:02 --pcp 5 --vid 200 --src-port 33334 --dst-port 55555 --payload 1000 --count 300000 --interval-us 10"
 
 
 # xfce4-terminal, gnome-terminal, xterm
